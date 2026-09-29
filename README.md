@@ -31,8 +31,8 @@ Both CSV files are UTF-8 with a header row and comma separators.
 | `start_date` | date | First day the event is active (YYYY-MM-DD) |
 | `end_date` | date | First day the event is no longer active. The active span is `start_date` up to, but not including, `end_date` |
 | `duration_days` | integer | `end_date` minus `start_date` in days |
-| `event_cycle` | text | `Seasonal` during school vacation periods, otherwise `NonSeasonal`. Not used in the manuscript |
-| `concurrent_events` | integer | Number of the game's other events active at the start. Not used in the manuscript |
+| `event_cycle` | text | `Seasonal` during school vacation periods, otherwise `NonSeasonal` |
+| `concurrent_events` | integer | Number of the game's other events active at the start |
 | `participation_type` | text | `Login`, `Active` |
 | `monetization` | text | `Free`, `Paid` |
 | `event_type` | text | `Esports`, `Collab`, `Anniversary`, `CashShop`, `Balance`, `Season`, `NewContent`, `Existing`, `Social`, `Promo`, `CurrencyEvent` |
@@ -90,17 +90,10 @@ Cohen's kappa between the two coders, pooled across the 1,403 records:
 
 Coding followed the written decision rules above, so kappa measures the consistency of rule application rather than free judgment.
 
-## Sources and what is not included
+## Sources
 
-Event records were built from each publisher's official announcements, news posts, and patch notes. Event names and dates are factual metadata of those public announcements.
+Event records were built from each publisher's official announcements, news posts, and patch notes. Event names and dates are factual metadata of those public announcements. Player-count and player-log data are not part of this dataset.
 
-The manuscript also uses two data sources that are not redistributed here:
-
-- Daily average concurrent players from SteamDB (the "Average Players" field). These can be obtained from SteamDB directly.
-- Player-level activity logs from the Bungie API (*Destiny 2*) and the OpenDota API (*Dota 2*). These are not released; the manuscript describes how the cohorts were built.
-
-## License and citation
+## License
 
 The dataset is released under the Creative Commons Attribution 4.0 International license (CC BY 4.0); see `LICENSE`.
-
-Citation: the manuscript is under review. A full citation will be added on acceptance.
