@@ -1,0 +1,1404 @@
+game,event_id,event_name,start_date,end_date,duration_days,event_cycle,concurrent_events,participation_type,monetization,event_type,player_behavior,reward_type,effort_level,archetype_id
+Destiny 2,D001,데스티니2 업데이트 7.3.0.5,2024-01-09,2024-01-22,13,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D002,GAME2GIVE 5주년,2024-01-18,2024-02-04,17,Seasonal,3,Active,Paid,Promo,OutGame,Skin,Low,arch_other
+Destiny 2,D003,GAME2GIVE 5주년,2024-01-18,2024-02-04,17,Seasonal,3,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D004,천 개의 목소리를 가진 리븐 봉제인형,2024-01-18,2024-06-03,137,Seasonal,3,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D005,데스티니2 업데이트 7.3.0.6,2024-01-23,2024-03-04,41,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D006,700만명의 죽음도 게랄트 님에게는 충분하지 않다,2024-01-30,2024-02-05,6,Seasonal,6,Active,Free,Existing,Mission,Skin,High,arch_other
+Destiny 2,D007,리븐의 소원,2024-01-30,2024-03-04,34,Seasonal,6,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D008,승리의 순간은 보상을 가져다줍니다,2024-01-30,2024-03-04,34,Seasonal,6,Active,Free,NewContent,Mission,Skin,Mid,arch_20
+Destiny 2,D009,GAME2GIVE 5주년,2024-02-01,2024-02-01,0,Seasonal,8,Active,Free,Promo,Stream,Currency,Low,arch_16
+Destiny 2,D010,프라임 게이밍 리워드 업데이트,2024-02-01,2024-03-07,35,Seasonal,8,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+Destiny 2,D011,새해 복 많이 받으세요!,2024-02-10,2024-03-04,23,Seasonal,6,Login,Free,NewContent,Login,Skin,Low,arch_other
+Destiny 2,D012,새해 복 많이 받으세요!,2024-02-10,2024-03-04,23,Seasonal,6,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+Destiny 2,D013,데스티니2와 험블 번들,2024-02-13,2024-02-27,14,Seasonal,9,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+Destiny 2,D015,저는 셰퍼드 사령관입니다…,2024-02-13,2024-03-04,20,Seasonal,9,Login,Free,Collab,Login,Skin,Low,arch_other
+Destiny 2,D014,그리고 다음 시험 맵은…,2024-02-13,2024-06-03,111,Seasonal,9,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D016,가디언 게임즈 올스타즈,2024-03-05,2024-03-26,21,NonSeasonal,11,Active,Free,NewContent,Mission,Skin,Mid,arch_20
+Destiny 2,D017,새로운 무기와 새로운 기념품,2024-03-05,2024-03-26,21,NonSeasonal,11,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D018,수많은 메달과 수많은 빛,2024-03-05,2024-03-26,21,NonSeasonal,11,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D019,수많은 메달과 수많은 빛,2024-03-05,2024-03-26,21,NonSeasonal,11,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D020,데스티니2 업데이트 7.3.5,2024-03-05,2024-04-08,34,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D021,가디언 게임 번지 리워드,2024-03-05,2024-04-30,56,NonSeasonal,11,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D022,무기 보상 업데이트,2024-03-05,2024-06-03,90,NonSeasonal,11,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D023,"보상, 보상, 보상",2024-03-05,2024-06-03,90,NonSeasonal,11,Login,Free,NewContent,Mission,Currency,Mid,arch_other
+Destiny 2,D024,크루시블 맵,2024-03-05,2024-06-03,90,NonSeasonal,11,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D025,무기 보상 업데이트,2024-03-12,2024-06-03,83,NonSeasonal,11,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D026,저희 경기 보러 오세요!,2024-03-19,2024-03-19,0,NonSeasonal,14,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D027,고스트버스터즈 콜라보레이션,2024-03-19,2024-03-31,12,NonSeasonal,14,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+Destiny 2,D028,무기 보상 업데이트,2024-03-19,2024-06-03,76,NonSeasonal,14,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D029,저희 경기 보러 오세요!,2024-03-26,2024-03-26,0,NonSeasonal,14,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D030,저희 경기 보러 오세요!,2024-04-02,2024-04-02,0,NonSeasonal,10,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D031,무기 보상 업데이트,2024-04-02,2024-06-03,62,NonSeasonal,10,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D032,맹공격: 전설의 도전,2024-04-09,2024-04-09,0,NonSeasonal,17,Active,Free,NewContent,Mission,Goods,High,arch_other
+Destiny 2,D033,파이널 셰이프 개발자 게임플레이 미리보기,2024-04-09,2024-04-09,0,NonSeasonal,17,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D034,데스티니2 업데이트 7.3.6,2024-04-09,2024-05-06,27,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D035,BRAVE Arsenal,2024-04-09,2024-06-03,55,NonSeasonal,17,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D036,데스티니 2: 인투 더 라이트,2024-04-09,2024-06-03,55,NonSeasonal,17,Login,Paid,Season,Login,None,Low,arch_other
+Destiny 2,D037,온슬롯을 소개합니다,2024-04-09,2024-06-03,55,NonSeasonal,17,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D038,챔피언의 전당 방문하기,2024-04-09,2024-06-03,55,NonSeasonal,17,Active,Free,NewContent,Mission,Skin,High,arch_other
+Destiny 2,D039,작업에 필요한 도구: 새로운 조명 키트,2024-04-09,2024-06-03,55,NonSeasonal,17,Login,Free,Existing,Login,Currency,Low,arch_02
+Destiny 2,D040,캐릭터 재커스터마이징,2024-04-09,2024-06-03,55,NonSeasonal,17,Login,Free,NewContent,Login,Skin,Low,arch_other
+Destiny 2,D041,어린이들을 위한 킬트 기금 모금 행사가 돌아왔습니다,2024-04-11,2024-04-19,8,NonSeasonal,16,Active,Free,Promo,OutGame,Skin,Low,arch_other
+Destiny 2,D042,BUNGIE BOUNTY FOR GOOD,2024-04-18,2024-04-18,0,NonSeasonal,17,Active,Free,Promo,Stream,None,Low,arch_other
+Destiny 2,D043,엑소견을 쓰다듬을 수 있어요,2024-04-25,2024-06-03,39,NonSeasonal,16,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D044,판테온 - 신규 레이드 보스,2024-04-30,2024-06-03,34,NonSeasonal,17,Active,Free,NewContent,Mission,Skin,Mid,arch_20
+Destiny 2,D045,pvp 공격팀 업데이트 / 무기 밸런스 업데이트,2024-05-07,2024-06-03,27,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D046,PVP 맵 팩 출시 - 새로운 맵,2024-05-07,2024-06-03,27,NonSeasonal,20,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D047,데스티니 2: 확장팩 오픈 엑세스 기간,2024-05-07,2024-06-03,27,NonSeasonal,20,Active,Paid,NewContent,Purchase,Currency,Low,arch_other
+Destiny 2,D048,새로운 영토,2024-05-07,2024-06-03,27,NonSeasonal,20,Active,Free,NewContent,Mission,Skin,Low,arch_other
+Destiny 2,D049,얻을 수 있는 모든 딥사이트 무기!,2024-05-07,2024-06-03,27,NonSeasonal,20,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D050,더 건틀릿이 10주년을 맞아 돌아옵니다,2024-05-19,2024-05-19,0,NonSeasonal,21,Active,Paid,Promo,OutGame,Goods,Low,arch_other
+Destiny 2,D051,여덟 신이 하나로 어우러진 놀라운 포스터,2024-05-24,2024-06-03,10,NonSeasonal,21,Active,Paid,Promo,OutGame,Goods,Low,arch_other
+Destiny 2,D052,BRAVE Arsenal 무기 획득률 증가 이벤트,2024-05-28,2024-06-03,6,NonSeasonal,22,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D053,SALVATION'S EDGE 레이드 재킷,2024-06-04,2024-06-25,21,NonSeasonal,10,Active,Paid,Promo,OutGame,Goods,Low,arch_other
+Destiny 2,D054,구원의 가장자리 엠블럼,2024-06-04,2024-07-01,27,NonSeasonal,10,Active,Free,Existing,Mission,Skin,Mid,arch_11
+Destiny 2,D055,나만의 무기고를 구축하세요,2024-06-04,2024-07-01,27,NonSeasonal,10,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D056,뉴 아스널,2024-06-04,2024-07-01,27,NonSeasonal,10,Active,Free,NewContent,Login,None,Low,arch_other
+Destiny 2,D057,던전앤드래곤즈의 콜라보레이션,2024-06-04,2024-07-01,27,NonSeasonal,10,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+Destiny 2,D058,데스티니 2: The Final Shape (8번째 확장판),2024-06-04,2024-07-01,27,NonSeasonal,0,Login,Paid,Balance,Login,None,Mid,arch_other
+Destiny 2,D059,알드로반다 위더호드 무기 장식,2024-06-04,2024-07-01,27,NonSeasonal,10,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+Destiny 2,D060,패스파인더,2024-06-04,2024-07-01,27,NonSeasonal,10,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D061,프리즈매틱 - 신규 클래스,2024-06-04,2024-07-01,27,NonSeasonal,10,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D062,SALVATION'S EDGE 슬링백,2024-06-04,2024-10-08,126,NonSeasonal,10,Active,Paid,Promo,OutGame,Goods,Low,arch_other
+Destiny 2,D063,SALVATION'S EDGE 레이드 완료 핀,2024-06-04,2024-12-31,210,NonSeasonal,10,Active,Paid,Promo,OutGame,Goods,Low,arch_other
+Destiny 2,D064,TWITCH RIVALS에서 세계 최초 레이스를 시청하세요,2024-06-07,2024-06-09,2,NonSeasonal,12,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D065,파이어팀 새 레이드 퍼클 이벤트,2024-06-07,2024-06-09,2,NonSeasonal,12,Active,Free,NewContent,Mission,Skin,High,arch_other
+Destiny 2,D066,에피소드 1 : 메아리 1막,2024-06-11,2024-07-15,34,NonSeasonal,14,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D067,에피소드 1 : 메아리,2024-06-11,2024-10-07,118,NonSeasonal,14,Login,Free,Season,Login,None,Low,arch_22
+Destiny 2,D068,확장되는 아티팩트 및 시즌 패스,2024-06-11,2024-10-07,118,NonSeasonal,14,Login,Paid,CashShop,Purchase,Pass,Low,arch_other
+Destiny 2,D069,쥐왕 만세!,2024-06-11,2024-10-07,118,NonSeasonal,14,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+Destiny 2,D070,Excision 그랜드마스터 엑시전,2024-06-18,2024-10-07,111,NonSeasonal,15,Active,Free,NewContent,Mission,Currency,High,arch_31
+Destiny 2,D071,레이드 및 던전 업데이트,2024-06-25,2024-08-05,41,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D072,SALVATION'S EDGE 마스터 난이도 추가,2024-06-25,2024-10-07,104,NonSeasonal,16,Login,Free,NewContent,Login,None,High,arch_other
+Destiny 2,D073,아이언 배너 2배,2024-07-02,2024-07-15,13,Seasonal,9,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D074,무기 밸런스 업데이트 (8.0.0.6),2024-07-02,2024-08-05,34,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D075,2막 라이브 스트리밍,2024-07-09,2024-07-09,0,Seasonal,11,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D076,번지 재단 토너먼트,2024-07-09,2024-07-28,19,Seasonal,11,Active,Free,Existing,Purchase,Skin,Low,arch_other
+Destiny 2,D077,에피소드 1 : 메아리 2막,2024-07-16,2024-08-26,41,Seasonal,11,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D078,"첫 번째, 두 번째 전장",2024-07-16,2024-08-26,41,Seasonal,11,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D079,번지 x 렉룸,2024-07-16,2024-10-07,83,Seasonal,11,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+Destiny 2,D080,마스터 레이드 챌린지 업데이트,2024-07-23,2024-07-30,7,Seasonal,14,Active,Free,NewContent,Mission,Currency,High,arch_31
+Destiny 2,D081,번지 현상금 사냥 이벤트,2024-07-23,2024-08-12,20,Seasonal,14,Active,Free,Existing,Mission,Skin,Mid,arch_11
+Destiny 2,D082,세 번째 전장,2024-07-23,2024-08-26,34,Seasonal,14,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D083,제 1회 세븐스 컬럼 카오스 pvp 토너먼트 준결승 및 결승 생중계,2024-07-25,2024-07-25,0,Seasonal,15,Active,Free,Promo,Stream,None,Low,arch_other
+Destiny 2,D084,에버버스 상점 밝은 가루,2024-08-06,2024-10-07,62,Seasonal,13,Login,Free,Existing,Login,Currency,Low,arch_02
+Destiny 2,D085,밸런스 및 모드,2024-08-06,2024-10-10,65,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D086,2024년 하지 축제,2024-08-13,2024-08-26,13,Seasonal,14,Active,Free,NewContent,Login,Currency,Low,arch_other
+Destiny 2,D087,2024년 하지 축제 - 솔스티스 갑옷,2024-08-13,2024-08-26,13,Seasonal,14,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D088,pvp 토너먼트,2024-08-16,2024-08-17,1,Seasonal,15,Active,Free,Existing,Mission,None,Mid,arch_other
+Destiny 2,D089,8v8 스패로우 컨트롤,2024-08-17,2024-10-07,51,Seasonal,16,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D090,저희의 멋진 스케이트보드를 구경해 보세요!,2024-08-20,2024-08-27,7,Seasonal,16,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D091,시러스 플라자 맵,2024-08-23,2024-10-07,45,Seasonal,17,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D092,비공개 매치 보상,2024-08-27,2024-10-07,41,Seasonal,16,Active,Free,Social,Mission,Currency,Mid,arch_23
+Destiny 2,D093,앵콜 공연 부탁드려요?,2024-08-27,2024-10-07,41,Seasonal,16,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D094,에피소드 1 : 메아리 3막,2024-08-27,2024-10-07,41,Seasonal,16,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D095,소장품에 훌륭한 추가품이 될 것입니다.,2024-08-27,2024-10-08,42,Seasonal,16,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D096,좋은 일을 해봅시다,2024-08-29,2024-08-29,0,Seasonal,16,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D097,검술의 시간이다!,2024-09-03,2024-09-10,7,NonSeasonal,16,Active,Free,NewContent,Login,None,Low,arch_other
+Destiny 2,D098,"10주년을 축하하며, 앞으로도 계속 함께 하길!",2024-09-10,2024-09-10,0,NonSeasonal,19,Login,Free,Anniversary,Login,Currency,Low,arch_25
+Destiny 2,D099,2014년처럼 옷을 입으세요,2024-09-10,2024-10-07,27,NonSeasonal,19,Login,Free,Anniversary,Login,Skin,Low,arch_other
+Destiny 2,D100,증인을 물리치고 전설이 되라,2024-09-10,2024-10-07,27,NonSeasonal,19,Login,Free,Anniversary,Mission,Currency,Mid,arch_other
+Destiny 2,D101,번지 재단이 트위치콘에 참가합니다!,2024-09-20,2024-09-22,2,NonSeasonal,18,Active,Paid,Promo,OutGame,Skin,Low,arch_other
+Destiny 2,D102,개발자 라이브 스트림에 참여하세요!,2024-10-01,2024-10-01,0,NonSeasonal,18,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D103,저희가 처음으로 진행하는 디스코드 퀘스트입니다,2024-10-08,2024-10-22,14,NonSeasonal,9,Active,Paid,Promo,OutGame,Skin,Low,arch_other
+Destiny 2,D104,데스티니의 타이탄 주간 (밸런스),2024-10-08,2024-11-18,41,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D105,"레버넌트용 특수 방어구, 무기 조정 (밸런스)",2024-10-08,2024-11-18,41,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D106,레이드 챌린지 업데이트,2024-10-08,2024-11-18,41,NonSeasonal,9,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D107,새로운 RAD 이벤트,2024-10-08,2024-11-18,41,NonSeasonal,9,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D108,새로운 장비로 경멸을 사냥하세요 (신규 무기),2024-10-08,2024-11-18,41,NonSeasonal,9,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D109,에피소드 2 : 레버넌트 2막,2024-10-08,2024-11-18,41,NonSeasonal,9,Login,Free,Season,Login,None,Low,arch_22
+Destiny 2,D110,에피소드 2 : 레버넌트 (망령),2024-10-08,2025-02-04,119,NonSeasonal,9,Login,Free,Season,Login,None,Low,arch_22
+Destiny 2,D111,TWITCH RIVALS에서 던전 레이스를 시청하세요,2024-10-11,2024-10-13,2,NonSeasonal,13,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D112,베스퍼의 호스트 던전 레이스,2024-10-11,2024-10-13,2,NonSeasonal,13,Active,Free,NewContent,Mission,Currency,High,arch_31
+Destiny 2,D113,베스퍼의 호스트 던전 레이스,2024-10-11,2024-10-13,2,NonSeasonal,13,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D114,베스퍼의 호스트 번지 리워드,2024-10-11,2025-05-06,207,NonSeasonal,13,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D115,새로운 던전이 추가됩니다,2024-10-11,2025-11-18,403,NonSeasonal,13,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D116,이국적인 임무 : 앙코르,2024-10-11,2025-11-18,403,NonSeasonal,13,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D117,번지 재단 허리케인 구호 캠페인,2024-10-15,2024-10-31,16,NonSeasonal,11,Active,Paid,Promo,OutGame,Skin,Low,arch_other
+Destiny 2,D118,베스퍼 호스트 스피드런 대회,2024-10-21,2024-10-29,8,NonSeasonal,12,Active,Free,Promo,Stream,Skin,Mid,arch_other
+Destiny 2,D119,토닉 소개,2024-10-22,2025-11-18,392,NonSeasonal,13,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D120,TWITCH - Bungie bounty for good,2024-10-31,2024-10-31,0,NonSeasonal,13,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D121,번지 리워드,2024-10-31,2024-11-19,19,NonSeasonal,13,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D122,새로운 아이언 배너 갑옷과 무기가 출시됩니다,2024-11-05,2024-11-18,13,NonSeasonal,12,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D123,revenant act 2 개발자 라이브 스트림에 참여하세요!,2024-11-12,2024-11-12,0,NonSeasonal,13,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D124,베스퍼 주인 던전에서 전투 및 활동 완료 시 획득하는 보상 2배,2024-11-19,2024-12-03,14,NonSeasonal,10,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D125,그랜드마스터 나이트폴 따라잡기 이벤트,2024-11-19,2024-12-23,34,NonSeasonal,10,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D126,에피소드 2 : 레버넌트 2막,2024-11-19,2025-01-06,48,NonSeasonal,10,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D127,"에피소드 2 : 레버넌트 2막, 밸런스",2024-11-19,2025-01-13,55,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D128,TWITCH - Bungie bounty for good,2024-11-21,2024-11-21,0,NonSeasonal,10,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D129,아이언 배너는 11월 26일에 시작됩니다.,2024-11-26,2025-01-06,41,NonSeasonal,11,Active,Free,Existing,Mission,Skin,Mid,arch_11
+Destiny 2,D130,번지 스토어 블랙프라이데이 세일,2024-11-26,2025-12-03,372,NonSeasonal,11,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D131,레반테 상을 받을 만한 패션,2024-12-10,2024-12-12,2,NonSeasonal,15,Active,Free,Promo,OutGame,Skin,Mid,arch_other
+Destiny 2,D132,새로운 시작의 정신을 받아들이세요!,2024-12-10,2024-12-30,20,NonSeasonal,15,Active,Free,Existing,Mission,Skin,Mid,arch_11
+Destiny 2,D133,신규 무기 추가,2024-12-10,2024-12-30,20,NonSeasonal,15,Active,Free,NewContent,Mission,Currency,High,arch_31
+Destiny 2,D134,아스트랄 스테이시스 드레이크 세트,2024-12-10,2024-12-30,20,NonSeasonal,15,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+Destiny 2,D135,바론 빙고가 돌아왔습니다!,2024-12-10,2025-01-06,27,NonSeasonal,15,Active,Free,Existing,Mission,Skin,Mid,arch_11
+Destiny 2,D136,"번지 스토어, 연말연시 특별 할인",2024-12-12,2024-12-31,19,NonSeasonal,16,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D137,에피소드 3 : 레버넌트 3막,2025-01-07,2025-02-03,27,Seasonal,9,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D138,새로운 이국적인 임무: 켈의 추락,2025-01-07,2025-02-03,27,Seasonal,9,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D139,이국적인 무기 컬렉션: 슬레이어의 송곳니,2025-01-07,2025-05-06,119,Seasonal,9,Active,Free,NewContent,Mission,Skin,Mid,arch_20
+Destiny 2,D140,레버넌트 3막 무기 및 방어구 밸런스 업데이트,2025-01-14,2025-02-03,20,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D141,과거는 서막이다'가 다음 주에 시작됩니다,2025-01-21,2025-02-03,13,Seasonal,10,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D142,GAME2GIVE 2025,2025-01-23,2025-02-09,17,Seasonal,13,Active,Paid,Promo,OutGame,Skin,Low,arch_other
+Destiny 2,D143,GAME2GIVE 2025,2025-01-23,2025-02-09,17,Seasonal,13,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D144,로스앤젤레스 산불,2025-01-23,2025-02-09,17,Seasonal,13,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D145,다음 개발자 라이브 스트림을 준비하세요!,2025-01-28,2025-01-28,0,Seasonal,14,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D146,"사냥을 나선다, 스톰즈 킵, 이온 센트리",2025-02-04,2025-03-10,34,Seasonal,13,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D147,이단 균형 변경,2025-02-04,2025-03-10,34,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D148,해러시 무기 및 갑옷 업데이트,2025-02-04,2025-03-10,34,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D149,데스티니 2 X 스타워즈,2025-02-04,2025-03-10,34,Seasonal,13,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+Destiny 2,D150,새로운 활동 - 네더 (신규 맵),2025-02-04,2025-03-10,34,Seasonal,13,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D151,2월 6일에 진행되는 GAME2GIVE 라이브 스트림,2025-02-06,2025-02-06,0,Seasonal,13,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D152,분열된 교리 던전 레이스,2025-02-07,2025-02-09,2,Seasonal,15,Active,Free,NewContent,Mission,Currency,High,arch_31
+Destiny 2,D153,분열된 교리 던전 레이스 스트림 이벤트,2025-02-07,2025-02-09,2,Seasonal,15,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D154,분열된 교리 던전 업데이트,2025-02-07,2025-03-10,31,Seasonal,15,Login,Free,NewContent,Login,None,Mid,arch_38
+Destiny 2,D155,분열된 교리 던전 레이스 스트림 이벤트,2025-02-11,2025-02-11,0,Seasonal,11,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D156,저희와 함께 흑인 역사의 달을 기념하세요,2025-02-13,2025-02-28,15,Seasonal,12,Active,Paid,Promo,Purchase,Skin,Low,arch_28
+Destiny 2,D157,"번지 스토어, 연말연시 특별 할인",2025-02-13,2025-05-06,82,Seasonal,12,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D158,아이언 배너 컨트롤,2025-02-18,2025-02-25,7,Seasonal,13,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D159,당신의 이단적인 패션을 보여주세요,2025-02-20,2025-03-06,14,Seasonal,14,Active,Free,Promo,OutGame,Skin,Low,arch_other
+Destiny 2,D160,SUNDERED DOCTRINE 쇼매치,2025-02-25,2025-03-04,7,Seasonal,16,Active,Free,Promo,Mission,Skin,High,arch_other
+Destiny 2,D161,그랜드마스터 나이트폴이 다음주에 공개됩니다,2025-02-25,2025-03-31,34,Seasonal,16,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D162,개발자 라이브 스트림에 참여하세요!,2025-03-04,2025-03-04,0,NonSeasonal,17,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D163,2024년 당신의 승리의 순간들을 되돌아보세요,2025-03-04,2025-03-31,27,NonSeasonal,17,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D164,번지 스토어에서 승리의 순간 세일,2025-03-04,2025-03-31,27,NonSeasonal,17,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D165,가디언 게임즈 러시다운 룰렛,2025-03-11,2025-03-17,6,NonSeasonal,17,Active,Free,Promo,Mission,Currency,Mid,arch_other
+Destiny 2,D166,HERESY 헤러시 ACT 2 출시,2025-03-11,2025-03-31,20,NonSeasonal,17,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D167,"가디언 게임: 학급 경쟁, 러시다운 등 다양한 콘텐츠!",2025-03-11,2025-03-31,20,NonSeasonal,17,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D168,"새로운 이벤트, 새로운 모습",2025-03-11,2025-03-31,20,NonSeasonal,17,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+Destiny 2,D169,HERESY 헤러시 ACT 2 밸런스 업데이트,2025-03-11,2025-03-31,20,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D170,"가디언 게임: 학급 경쟁, 러시다운 등 다양한 콘텐츠! (상위 10%)",2025-03-11,2025-03-31,20,NonSeasonal,17,Active,Free,NewContent,Mission,Skin,High,arch_other
+Destiny 2,D171,가디언 게임즈 저지를 구매하세요,2025-03-11,2025-04-01,21,NonSeasonal,17,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D172,새로운 의지파괴자 긴팔 셔츠,2025-03-11,2025-05-06,56,NonSeasonal,17,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D173,스프레이그라운드 콜라보,2025-03-13,2025-03-31,18,NonSeasonal,19,Active,Paid,Collab,Purchase,Goods,Low,arch_other
+Destiny 2,D174,저희와 함께 여성 역사의 달을 기념하세요,2025-03-13,2025-03-31,18,NonSeasonal,19,Active,Paid,Promo,Purchase,Skin,Low,arch_28
+Destiny 2,D175,선행을 위한 보상에 참여할 준비가 되셨나요?,2025-03-19,2025-03-19,0,NonSeasonal,19,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D176,아이언 배너 컨트롤,2025-04-01,2025-04-08,7,NonSeasonal,11,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D177,HERESY 헤러시 ACT 3 출시,2025-04-01,2025-05-05,34,NonSeasonal,11,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D178,크루시블 샌드박스 튜닝 업데이트 (밸런스),2025-04-01,2025-05-05,34,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D179,전국 스트레스 인식의 달,2025-04-03,2025-04-30,27,NonSeasonal,11,Active,Paid,Promo,Purchase,Skin,Low,arch_28
+Destiny 2,D180,테이큰 킹 만세!,2025-04-10,2025-05-06,26,NonSeasonal,11,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D181,하늘 어딘가에서 발견된 상징,2025-04-12,2025-04-12,0,NonSeasonal,12,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D182,"회문을 얻고, 새로운 엠블럼을 획득하세요",2025-04-22,2025-04-29,7,NonSeasonal,12,Login,Free,Existing,Mission,Skin,Mid,arch_other
+Destiny 2,D183,번지 재단은 게이머들의 참여를 지원합니다.,2025-04-24,2025-05-18,24,NonSeasonal,13,Active,Paid,Promo,Purchase,Skin,Low,arch_28
+Destiny 2,D184,아이언 배너 컨트롤,2025-04-29,2025-05-06,7,NonSeasonal,14,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D185,저 투박한 무기들에 관해서 말하자면…,2025-05-06,2025-05-06,0,NonSeasonal,15,Login,Free,Existing,Login,Currency,Low,arch_02
+Destiny 2,D186,"운명의 끝 (The Edge of Fate, Rite of the Nine)",2025-05-06,2025-07-14,69,NonSeasonal,15,Login,Paid,NewContent,Login,None,Low,arch_other
+Destiny 2,D187,헤비메탈과 이벤트 홈,2025-05-06,2025-07-14,69,NonSeasonal,15,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D188,8.2.6 업데이트 샌드박스 (밸런스),2025-05-06,2025-07-14,69,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D189,아홉의 의식이 시작되었다,2025-05-06,2025-07-14,69,NonSeasonal,15,Active,Free,NewContent,Mission,Skin,Mid,arch_20
+Destiny 2,D190,헤비메탈 토너먼트 및 엠블럼,2025-05-09,2025-05-16,7,NonSeasonal,9,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D191,GAUNTLET 2025 업데이트 (기부),2025-05-15,2025-05-18,3,NonSeasonal,10,Active,Paid,Promo,Purchase,Skin,Low,arch_28
+Destiny 2,D192,아이언 배너 컨트롤,2025-05-20,2025-05-27,7,NonSeasonal,9,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D193,심연의 유령' 던전 출시,2025-05-20,2025-06-03,14,NonSeasonal,9,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D194,번지 재단 소식,2025-05-22,2025-05-22,0,NonSeasonal,10,Active,Free,Existing,Mission,Skin,Mid,arch_11
+Destiny 2,D195,Prophecy 이용 가능,2025-06-03,2025-06-17,14,NonSeasonal,11,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D196,프라이드 먼스 클래식,2025-06-03,2025-06-30,27,NonSeasonal,11,Active,Paid,Promo,Purchase,Skin,Low,arch_28
+Destiny 2,D197,색채와 의미를 담아!,2025-06-03,2025-07-01,28,NonSeasonal,11,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+Destiny 2,D198,Rite of the Nine 던전 플레이 가능,2025-06-17,2025-06-24,7,NonSeasonal,14,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D199,던전 무기 드롭률 증가,2025-06-17,2025-07-07,20,NonSeasonal,14,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D200,새로운 임무를 맡은 장비 전문가들,2025-06-17,2025-07-14,27,NonSeasonal,14,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D201,던전 최종 보스에서 추가 아이템 획득 가능,2025-06-17,2025-07-15,28,NonSeasonal,14,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D202,다음 개발자 스트림에 참여하세요!,2025-06-24,2025-06-24,0,NonSeasonal,14,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D203,스팀 여름 세일,2025-06-26,2025-07-14,18,NonSeasonal,13,Active,Paid,Promo,Purchase,Currency,Low,arch_other
+Destiny 2,D204,다음 개발자 스트림에 참여하세요!,2025-07-01,2025-07-01,0,NonSeasonal,13,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D205,영원의 예언 모드 도전,2025-07-04,2025-07-06,2,NonSeasonal,12,Active,Free,Existing,Mission,Goods,High,arch_other
+Destiny 2,D206,번지 데이 세일,2025-07-07,2025-07-15,8,NonSeasonal,13,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D207,번지 데이 2025 캠페인,2025-07-07,2025-07-29,22,NonSeasonal,13,Active,Free,Promo,Purchase,Skin,Low,arch_other
+Destiny 2,D208,노나리 엔그램 지급,2025-07-08,2025-07-14,6,NonSeasonal,14,Login,Free,Existing,Login,Currency,Mid,arch_other
+Destiny 2,D209,대박 이벤트,2025-07-08,2025-07-15,7,NonSeasonal,14,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D210,감시자의 첨탑 모드 도전,2025-07-10,2025-07-12,2,NonSeasonal,17,Active,Free,Existing,Mission,Goods,High,arch_other
+Destiny 2,D211,감시자의 첨탑 모드 참여,2025-07-10,2025-07-12,2,NonSeasonal,17,Active,Free,Existing,Mission,Skin,Mid,arch_11
+Destiny 2,D212,번지 리워드를 잊지 마세요,2025-07-10,2025-07-15,5,NonSeasonal,17,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D213,운명의 끝자락 (밸런스),2025-07-15,2025-08-04,20,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D214,"운명의 끝자락, 예언의 해",2025-07-15,2025-09-08,55,NonSeasonal,11,Login,Paid,NewContent,Login,None,Low,arch_other
+Destiny 2,D215,새로운 리워드 패스 출시 예정,2025-07-15,2025-09-08,55,NonSeasonal,11,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+Destiny 2,D216,파워 휴즈 엠블럼,2025-07-19,2025-07-19,0,NonSeasonal,14,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D217,세계 최초 레이스 정보,2025-07-19,2025-07-21,2,NonSeasonal,14,Active,Free,NewContent,Mission,Goods,High,arch_other
+Destiny 2,D218,황금 구호 문양,2025-07-19,2025-07-29,10,NonSeasonal,14,Active,Paid,Promo,Purchase,Skin,Low,arch_28
+Destiny 2,D221,사막의 영원함 신규 레이드 출시,2025-07-19,2025-09-08,51,NonSeasonal,14,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D222,레이드 완료 보상,2025-07-19,2025-09-08,51,NonSeasonal,14,Active,Free,NewContent,Mission,Skin,Mid,arch_20
+Destiny 2,D220,사막의 영원함 레이드 핀,2025-07-19,2025-12-02,136,NonSeasonal,14,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D219,데저트 퍼페추얼 재킷 및 가방,2025-07-19,2025-12-05,139,NonSeasonal,14,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D223,번지 재단 캠페인 업데이트,2025-07-29,2025-07-29,0,NonSeasonal,14,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D224,무기 주간을 준비하세요,2025-07-29,2025-08-04,6,NonSeasonal,14,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D225,2025 하지축제,2025-08-05,2025-08-18,13,Seasonal,15,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D226,2025 하지축제,2025-08-05,2025-08-18,13,Seasonal,15,Active,Free,Existing,OutGame,Skin,Mid,arch_40
+Destiny 2,D227,2025 하지축제,2025-08-05,2025-08-18,13,Seasonal,15,Login,Free,Existing,Login,Skin,Low,arch_other
+Destiny 2,D228,2025 하지축제,2025-08-05,2025-08-18,13,Seasonal,15,Login,Free,Existing,Login,Currency,Low,arch_02
+Destiny 2,D230,번지 스토어 솔스티스 할인,2025-08-05,2025-08-19,14,Seasonal,15,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D229,밸런스 패치,2025-08-05,2025-09-08,34,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D231,하지 이벤트 트위치 드롭,2025-08-07,2025-08-19,12,Seasonal,16,Active,Paid,Promo,Purchase,Skin,Low,arch_28
+Destiny 2,D232,번재 재단은 로널드 맥도날드 하우스 자선 단체를 지원합니다.,2025-08-14,2025-08-28,14,Seasonal,17,Active,Free,Promo,Purchase,Skin,Low,arch_other
+Destiny 2,D233,시즌 패스 할인,2025-08-26,2025-09-08,13,Seasonal,12,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+Destiny 2,D234,크리에이터 스토리 패널,2025-08-28,2025-08-28,0,Seasonal,14,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D235,데스티니 라이징 출시,2025-08-28,2025-09-08,11,Seasonal,14,Active,Free,NewContent,OutGame,Skin,Mid,arch_other
+Destiny 2,D236,헤비메탈이 크루서블에 돌아왔다,2025-09-02,2025-09-09,7,Seasonal,15,Active,Free,Existing,Mission,Currency,High,arch_13
+Destiny 2,D237,헤비메탈 트위치 드롭,2025-09-02,2025-09-09,7,Seasonal,15,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D238,데스티니 2 레거시 컬렉션,2025-09-02,2025-10-07,35,Seasonal,15,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D239,저희와 함께 히스패닉 문화유산의 달을 기념하세요,2025-09-04,2025-09-30,26,Seasonal,16,Active,Free,Promo,Purchase,Skin,Low,arch_other
+Destiny 2,D243,데스티니 2: 레니게이드 첫 번째 프리뷰,2025-09-09,2025-09-09,0,Seasonal,16,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D244,애쉬 앤 아이언 오리지널 던전 이용,2025-09-09,2025-09-23,14,Seasonal,16,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D241,애쉬 앤 아이언 (밸런스),2025-09-09,2025-10-06,27,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D242,애쉬 앤 아이언 최상위 난이도,2025-09-09,2025-10-06,27,Seasonal,16,Active,Free,NewContent,Mission,Currency,High,arch_31
+Destiny 2,D246,애쉬 앤 아이언 리클레임,2025-09-09,2025-10-06,27,Seasonal,16,Active,Free,NewContent,OutGame,Currency,Mid,arch_other
+Destiny 2,D240,애쉬 앤 아이언 확장팩,2025-09-09,2025-12-01,83,Seasonal,16,Login,Paid,NewContent,Login,None,Low,arch_other
+Destiny 2,D245,새로운 리워드 패스,2025-09-09,2025-12-01,83,Seasonal,16,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+Destiny 2,D247,아이언 배너가 다음 주에 돌아옵니다.,2025-09-16,2025-09-23,7,Seasonal,14,Active,Free,Existing,OutGame,Currency,Mid,arch_29
+Destiny 2,D248,경주를 따라가 보세요,2025-09-26,2025-09-28,2,Seasonal,13,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D253,시계 보상,2025-09-27,2025-09-28,1,Seasonal,19,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D250,획득할 수 있는 엠블럼 2개,2025-09-27,2025-09-29,2,Seasonal,19,Active,Free,NewContent,Mission,Skin,Mid,arch_20
+Destiny 2,D252,챔피언을 위한 벨트,2025-09-27,2025-09-29,2,Seasonal,19,Active,Free,NewContent,Mission,Goods,High,arch_other
+Destiny 2,D249,"더 데저트 퍼페추얼, 사막의 영원함 (에픽 레이드 출시)",2025-09-27,2025-12-01,65,Seasonal,19,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D251,획득할 수 있는 엠블럼 2개,2025-09-27,2025-12-01,65,Seasonal,19,Active,Free,NewContent,Mission,Skin,Mid,arch_20
+Destiny 2,D254,번지 리워드 - 에픽 레이드 링,2025-09-27,2025-12-05,69,Seasonal,19,Active,Paid,CashShop,Purchase,Goods,Mid,arch_other
+Destiny 2,D255,"경이 임무 워샛 강탈, 무기 주간",2025-10-07,2025-10-14,7,NonSeasonal,16,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D259,저희와 함께 전국 장애인 고용 인식의 달을 기념하세요,2025-10-07,2025-10-31,24,NonSeasonal,16,Active,Free,Promo,Purchase,Skin,Low,arch_other
+Destiny 2,D256,2.9.1.5 밸런스 패치,2025-10-07,2025-12-01,55,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D257,새로운 컴프 엠블럼,2025-10-07,2025-12-01,55,NonSeasonal,16,Active,Free,Existing,Mission,Skin,High,arch_other
+Destiny 2,D258,새로운 이국적인 임무: 헬리오스타트,2025-10-07,2025-12-01,55,NonSeasonal,16,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D260,번지 리워드 전송,2025-10-09,2025-10-31,22,NonSeasonal,16,Active,Paid,CashShop,Purchase,Goods,Mid,arch_other
+Destiny 2,D262,방송 시청 보상,2025-10-21,2025-10-28,7,NonSeasonal,19,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D263,"축제 오브 더 로스트, 사탕",2025-10-21,2025-11-03,13,NonSeasonal,19,Login,Free,Existing,Login,Currency,Low,arch_02
+Destiny 2,D261,축제 오브 더 로스트,2025-10-21,2025-11-11,21,NonSeasonal,19,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D264,잃어버린 물건들을 위한 축제 세일이 계속됩니다!,2025-10-21,2025-11-11,21,NonSeasonal,19,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+Destiny 2,D265,그린맨 게이밍: 데스티니 2 번들,2025-10-23,2025-11-05,13,NonSeasonal,20,Active,Paid,Promo,Purchase,Currency,Low,arch_other
+Destiny 2,D266,저희와 함께 참전 용사 감사의 달을 기념하세요,2025-11-06,2025-11-30,24,NonSeasonal,16,Active,Free,Promo,Purchase,Skin,Low,arch_other
+Destiny 2,D267,"수호자들을 위한 소집 이벤트, 소집령",2025-11-11,2025-12-01,20,NonSeasonal,18,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Destiny 2,D268,소집령 경쟁,2025-11-11,2025-12-01,20,NonSeasonal,18,Active,Free,Existing,Mission,Skin,High,arch_other
+Destiny 2,D269,블랙프라이데이 번지 스토어 특가 상품,2025-11-24,2025-12-02,8,NonSeasonal,14,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D270,다음 레니게이드 개발자 라이브 스트림에 참여하세요!,2025-11-25,2025-11-25,0,NonSeasonal,15,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D274,데스티니 2 오픈 액세스 주간,2025-12-02,2025-12-09,7,NonSeasonal,10,Login,Free,Existing,Mission,Currency,Low,arch_other
+Destiny 2,D276,레니게이드의 스트리밍 방송을 시청하고 트위치 드롭스를 획득하세요,2025-12-02,2025-12-12,10,NonSeasonal,10,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D271,복귀 유저이신가요? 이 글을 읽어보세요!,2025-12-02,2026-01-01,0,NonSeasonal,10,Login,Free,Existing,Login,Currency,Low,arch_02
+Destiny 2,D272,데스티니 2: 레니게이드 (확장팩),2025-12-02,2026-01-01,0,NonSeasonal,10,Login,Paid,NewContent,Login,None,Low,arch_other
+Destiny 2,D273,레니게이드 밸런스,2025-12-02,2026-01-01,0,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Destiny 2,D275,무법지대,2025-12-02,2026-01-01,0,NonSeasonal,10,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D277,평형 던전 레이스 및 트위치 드롭,2025-12-13,2025-12-13,0,NonSeasonal,8,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D279,트위치 드롭스,2025-12-13,2025-12-14,1,NonSeasonal,8,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D278,평형의 던전 레이스에 대비하세요!,2025-12-13,2025-12-15,2,NonSeasonal,8,Active,Free,NewContent,Mission,Goods,High,arch_other
+Destiny 2,D280,콘테스트 모드 보상,2025-12-13,2025-12-15,2,NonSeasonal,8,Active,Free,NewContent,Mission,Skin,Mid,arch_20
+Destiny 2,D281,평형의 던전 번지 보상,2025-12-13,2026-01-01,0,NonSeasonal,8,Active,Paid,CashShop,Purchase,Goods,Low,arch_17
+Destiny 2,D282,겨울 이벤트 던닝,2025-12-16,2026-01-01,0,NonSeasonal,8,Login,Free,NewContent,Login,None,Low,arch_05
+Destiny 2,D283,겨울 이벤트 던닝,2025-12-16,2026-01-01,0,NonSeasonal,8,Active,Free,NewContent,Mission,Skin,Mid,arch_20
+Destiny 2,D284,겨울 이벤트 던닝,2025-12-16,2026-01-01,0,NonSeasonal,8,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Destiny 2,D285,트위치 드롭스,2025-12-16,2026-01-01,0,NonSeasonal,8,Active,Free,Promo,Stream,Skin,Low,arch_10
+Destiny 2,D286,반역자의 맹세가 오늘로 막을 내립니다,2025-12-18,2025-12-19,1,NonSeasonal,9,Active,Paid,Promo,Purchase,Skin,Low,arch_28
+Destiny 2,D287,"2025년, 번지의 마지막 선행 캠페인",2025-12-21,2025-12-21,0,NonSeasonal,9,Active,Paid,Promo,Purchase,Skin,Low,arch_28
+Dota 2,E001,용의 선물,2024-02-08,2024-03-07,28,Seasonal,1,Login,Free,Existing,Login,Currency,Low,arch_02
+Dota 2,E002,용의 선물,2024-02-08,2024-02-21,13,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E003,7.35c Gameplay Patch,2024-02-22,2024-03-20,27,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E004,Dota Plus Update,2024-03-06,2024-04-17,42,NonSeasonal,3,Login,Paid,CashShop,Purchase,Pass,Low,arch_other
+Dota 2,E005,Updated Seasonal Quests & Guild Rewards,2024-03-06,2024-04-17,42,NonSeasonal,3,Active,Paid,Social,Mission,Currency,Mid,arch_other
+Dota 2,E006,7.35d Gameplay Patch,2024-03-21,2024-05-22,62,NonSeasonal,0,Login,Free,Balance,Login,None,Low,arch_other
+Dota 2,E007,Crownfall,2024-04-18,2024-05-22,34,NonSeasonal,4,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Dota 2,E008,Crownfall,2024-04-18,2025-01-15,272,NonSeasonal,4,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+Dota 2,E009,Crownfall,2024-04-18,2024-05-22,34,NonSeasonal,4,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+Dota 2,E010,Crownfall,2024-04-18,2024-05-22,34,NonSeasonal,4,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+Dota 2,E011,7.36 Gameplay Patch,2024-05-23,2024-07-30,68,NonSeasonal,3,Login,Free,Season,Login,None,High,arch_other
+Dota 2,E012,7.36 Gameplay Patch,2024-05-23,2024-05-26,3,NonSeasonal,0,Login,Free,Balance,Login,None,Low,arch_other
+Dota 2,E013,7.36 Gameplay Patch,2024-05-23,2024-05-26,3,NonSeasonal,3,Login,Free,NewContent,Login,None,Low,arch_05
+Dota 2,E014,7.36a Gameplay Patch,2024-05-27,2024-06-05,9,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E015,7.36b Gameplay Patch,2024-06-06,2024-06-23,17,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E016,7.36c Gameplay Patch,2024-06-24,2024-07-30,36,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E017,Crownfall 3,2024-07-09,2024-07-30,21,Seasonal,3,Login,Free,NewContent,Mission,None,Low,arch_other
+Dota 2,E018,7.37 Gameplay Patch,2024-07-31,2025-02-18,202,Seasonal,2,Login,Free,Season,Login,None,High,arch_other
+Dota 2,E019,7.37 Gameplay Patch,2024-07-31,2024-08-13,13,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E020,7.37b Gameplay Patch,2024-08-14,2024-08-26,12,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E021,Ringmaster,2024-08-23,2024-11-07,76,Seasonal,6,Login,Free,NewContent,Login,None,Mid,arch_38
+Dota 2,E022,Ringmaster,2024-08-23,2024-11-07,76,Seasonal,6,Login,Paid,CashShop,Purchase,Currency,Low,arch_other
+Dota 2,E023,Ringmaster,2024-08-23,2024-11-07,76,Seasonal,6,Active,Free,Existing,Mission,Currency,Mid,arch_01
+Dota 2,E024,Ringmaster,2024-08-23,2024-11-07,76,Seasonal,6,Active,Free,Promo,Login,Currency,Low,arch_other
+Dota 2,E025,7.37c Gameplay Patch,2024-08-27,2024-10-02,36,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E026,The International 2024,2024-09-04,2024-09-15,11,NonSeasonal,7,Active,Free,Esports,Stream,None,Low,arch_other
+Dota 2,E027,7.37d Gameplay Patch,2024-10-03,2024-11-19,47,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E028,KEZ,2024-11-08,2025-01-15,68,NonSeasonal,4,Login,Free,NewContent,Login,None,Low,arch_05
+Dota 2,E029,Crownfall Act IV: The Spires of Skywrath,2024-11-08,2025-01-15,68,NonSeasonal,4,Login,Free,NewContent,Mission,Currency,Mid,arch_other
+Dota 2,E030,7.37e Gameplay Patch,2024-11-20,2025-01-15,56,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E031,Frostivus is Upon Us,2024-12-19,2025-01-15,27,NonSeasonal,8,Login,Free,NewContent,Mission,Currency,Mid,arch_other
+Dota 2,E032,Frostivus Forge,2024-12-19,2025-01-15,27,NonSeasonal,8,Login,Free,NewContent,Mission,Currency,Mid,arch_other
+Dota 2,E033,Winter 2024 Heroes' Hoard,2024-12-19,2025-01-15,27,NonSeasonal,8,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+Dota 2,E034,End-of-Year Sale,2024-12-19,2025-01-03,15,NonSeasonal,8,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+Dota 2,E035,Crownfall's Final Bow,2025-01-16,2025-02-06,21,Seasonal,2,Login,Free,Existing,Login,None,Low,arch_other
+Dota 2,E036,The Charms of the Snake,2025-01-29,2025-02-18,20,Seasonal,3,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+Dota 2,E037,The Crownfall Archive,2025-02-06,2025-02-18,12,Seasonal,4,Active,Free,Existing,Mission,Currency,Low,arch_21
+Dota 2,E038,7.38 Gameplay Patch,2025-02-19,2025-05-21,91,Seasonal,2,Login,Free,Season,Login,None,High,arch_other
+Dota 2,E039,Wandering Waters,2025-02-19,2025-03-03,12,Seasonal,2,Login,Free,NewContent,Login,None,Low,arch_05
+Dota 2,E040,7.38 Gameplay Patch,2025-02-19,2025-03-03,12,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E041,7.38b Gameplay Patch,2025-03-04,2025-05-12,69,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E042,7.38c Gameplay Patch,2025-05-13,2025-05-21,8,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E043,Dota Spring Forward,2025-05-22,2025-08-05,75,NonSeasonal,3,Login,Free,NewContent,Login,None,Mid,arch_38
+Dota 2,E044,7.39 Gameplay Patch,2025-05-22,2025-12-15,207,NonSeasonal,3,Login,Free,Season,Login,None,High,arch_other
+Dota 2,E045,7.39 Gameplay Patch,2025-05-22,2025-05-28,6,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E046,Dota Spring Forward,2025-05-22,2025-08-05,75,NonSeasonal,3,Login,Paid,CashShop,Purchase,Skin,Low,arch_other
+Dota 2,E047,7.39b Gameplay Patch,2025-05-29,2025-06-23,25,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E048,7.39c Gameplay Patch,2025-06-24,2025-08-04,41,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E049,7.39d Gameplay Patch,2025-08-05,2025-10-01,57,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E050,Quartero's Curios,2025-08-05,2025-11-10,97,NonSeasonal,4,Login,Free,NewContent,Login,None,Mid,arch_38
+Dota 2,E051,The International 2025,2025-09-11,2025-09-14,3,NonSeasonal,3,Active,Free,Esports,Stream,None,Low,arch_other
+Dota 2,E052,7.39e Gameplay Patch,2025-10-02,2025-12-15,74,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E053,Dota x Monster Hunter,2025-11-10,2026-01-01,0,NonSeasonal,6,Login,Free,Collab,Login,None,Low,arch_other
+Dota 2,E054,Dota x Monster Hunter,2025-11-10,2026-01-01,0,NonSeasonal,6,Login,Paid,CashShop,Purchase,Skin,Low,arch_other
+Dota 2,E055,Dota x Monster Hunter,2025-11-10,2026-01-01,0,NonSeasonal,6,Login,Free,CashShop,Purchase,Currency,Low,arch_other
+Dota 2,E056,Dota x Monster Hunter,2025-11-10,2026-01-01,0,NonSeasonal,6,Login,Free,NewContent,Login,None,Low,arch_05
+Dota 2,E057,7.40 Gameplay Patch,2025-12-16,2026-01-01,0,NonSeasonal,7,Login,Free,Season,Login,None,High,arch_other
+Dota 2,E058,7.40 Gameplay Patch,2025-12-16,2026-01-01,0,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+Dota 2,E059,Largo,2025-12-16,2026-01-01,0,NonSeasonal,7,Login,Free,NewContent,Login,None,Mid,arch_38
+Dota 2,E060,Largo,2025-12-16,2026-01-01,0,NonSeasonal,7,Login,Free,CashShop,Purchase,Skin,Low,arch_other
+Dota 2,E061,7.40b Gameplay Patch,2025-12-23,2026-01-01,0,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+PUBG,P001,Choose Your Squad Style,2024-01-08,2024-01-21,13,Seasonal,1,Active,Free,Promo,OutGame,Lottery,Mid,arch_other
+PUBG,P002,7-Day Check-in Event 1,2024-01-10,2024-01-23,13,Seasonal,7,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P003,Rondo Mission Event 2,2024-01-10,2024-02-06,27,Seasonal,7,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P004,Survivor Pass: Dragon's Rise,2024-01-10,2024-02-07,28,Seasonal,7,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P005,Event Token Shop,2024-01-10,2024-03-12,62,Seasonal,7,Active,Free,Existing,OutGame,Skin,Mid,arch_40
+PUBG,P006,Hideout: Contraband Crate,2024-01-10,2024-06-12,154,Seasonal,7,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P007,Hideout: Scrap Broker,2024-01-10,2024-06-12,154,Seasonal,7,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P008,Hell's Angel vs Heaven's Demon,2024-01-17,2024-10-10,267,Seasonal,8,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P009,7-Day Check-in Event 2,2024-01-24,2024-02-06,13,Seasonal,7,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P010,Spring Fest Point Shop,2024-02-07,2024-02-27,20,Seasonal,16,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P011,An Awakened Journey,2024-02-07,2024-02-27,20,Seasonal,16,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+PUBG,P012,Spring Fest Check-In Event,2024-02-07,2024-03-07,29,Seasonal,16,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P013,Crafter Pass: Spring Fest 2024,2024-02-07,2024-04-03,56,Seasonal,16,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P014,Store: Loot Cache Packs,2024-02-07,2024-04-03,56,Seasonal,16,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+PUBG,P015,The Collector!,2024-02-07,2024-04-09,62,Seasonal,16,Active,Paid,Collab,Mission,Skin,Low,arch_30
+PUBG,P016,Hideout: Contraband Crate,2024-02-07,2024-04-09,62,Seasonal,16,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P017,Hideout: Scrap Broker,2024-02-07,2024-04-09,62,Seasonal,16,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P018,Step Up Package,2024-02-07,2024-04-09,62,Seasonal,16,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P019,Special Crafting: Spring Fest 2024,2024-02-07,2024-04-09,62,Seasonal,16,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P020,Update 28.1: Patch Notes,2024-02-07,2024-03-12,34,NonSeasonal,16,Login,Free,Season,Login,None,Low,arch_22
+PUBG,P021,Update 28.1: Patch Notes,2024-02-07,2024-03-12,34,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+PUBG,P022,Last Prime Gaming Drops,2024-03-08,2024-04-12,35,NonSeasonal,13,Active,Paid,Promo,OutGame,Currency,Mid,arch_other
+PUBG,P023,7th Anniversary Party Gift,2024-03-13,2024-03-24,11,NonSeasonal,16,Login,Free,Anniversary,Login,Currency,Low,arch_25
+PUBG,P024,Partner Drops,2024-03-13,2024-03-24,11,NonSeasonal,16,Active,Free,Promo,Stream,Currency,Mid,arch_other
+PUBG,P025,7th Anniversary Screenshot Event,2024-03-13,2024-03-27,14,NonSeasonal,16,Active,Free,Anniversary,OutGame,Lottery,Mid,arch_other
+PUBG,P026,Party Time!,2024-03-13,2024-04-08,26,NonSeasonal,16,Active,Free,Anniversary,Mission,Currency,Mid,arch_36
+PUBG,P027,7th Anniversary Web Event,2024-03-13,2024-04-17,35,NonSeasonal,16,Active,Free,Anniversary,OutGame,Currency,Low,arch_other
+PUBG,P028,Update 28.2: Patch Notes,2024-03-13,2024-04-08,26,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+PUBG,P029,Gear Up for PUBG: Squad Battle!,2024-03-22,2024-03-22,0,NonSeasonal,18,Active,Free,Promo,Stream,Currency,Low,arch_16
+PUBG,P030,7th Anniversary for All!,2024-03-22,2024-03-24,2,NonSeasonal,18,Login,Free,Anniversary,Login,Currency,Low,arch_25
+PUBG,P031,7th Anniversary Booster,2024-03-27,2024-04-07,11,NonSeasonal,16,Login,Free,Anniversary,Login,Currency,Low,arch_25
+PUBG,P032,Sugar Rush Salli,2024-03-27,2025-01-08,287,Seasonal,16,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P033,Spring Check-in Event,2024-04-09,2024-04-22,13,NonSeasonal,20,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P034,WINNER WINNER CHICKEN DINNER,2024-04-09,2024-04-29,20,NonSeasonal,20,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P035,Survivor Pass: Special Drops,2024-04-09,2024-05-07,28,NonSeasonal,20,Active,Free,CashShop,OutGame,Currency,Mid,arch_other
+PUBG,P036,Survivor Pass: Comic Chaos,2024-04-09,2024-05-07,28,Seasonal,20,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P037,Collaboration: Ducati,2024-04-09,2024-05-07,28,Seasonal,20,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+PUBG,P038,Collaboration: 2024 Global Partner Team,2024-04-09,2024-05-08,29,Seasonal,20,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+PUBG,P039,Hideout: Bumper Blaster - AUG (Contraband Crate),2024-04-09,2024-09-04,148,Seasonal,20,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P040,Scrap Broker: Bumper Blaster - AUG,2024-04-09,2024-09-04,148,Seasonal,20,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P041,Update 29.1: Patch Notes,2024-04-09,2024-05-13,34,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+PUBG,P042,Update 29.1: Patch Notes,2024-04-09,2024-05-13,34,NonSeasonal,20,Login,Free,Season,Login,None,Low,arch_22
+PUBG,P043,Spring Check-in Event 2,2024-04-23,2024-05-06,13,NonSeasonal,14,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P044,Ducati Event,2024-04-23,2024-05-06,13,NonSeasonal,14,Active,Paid,Collab,Mission,Skin,Low,arch_30
+PUBG,P045,Collaboration: W.I.A,2024-04-24,2024-12-31,251,Seasonal,15,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+PUBG,P046,Discord Quest,2024-05-14,2024-05-28,14,NonSeasonal,15,Active,Free,Promo,OutGame,Currency,Mid,arch_24
+PUBG,P047,Booster Check-in 1,2024-05-14,2024-05-28,14,NonSeasonal,15,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P048,Erangel Classic Missions,2024-05-14,2024-05-28,14,NonSeasonal,15,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+PUBG,P049,Legacy Bundles Return,2024-05-14,2024-05-28,14,Seasonal,15,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P050,Live Stream Drops,2024-05-14,2024-06-11,28,NonSeasonal,15,Active,Free,Promo,OutGame,Currency,Mid,arch_24
+PUBG,P051,Survivor Pass: Off the Grid,2024-05-14,2024-06-11,28,Seasonal,15,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P052,Hideout: Steel the Show (Contraband Crate),2024-05-14,2024-10-10,149,Seasonal,15,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P053,Scrap Broker: Steel the Show,2024-05-14,2024-10-10,149,Seasonal,15,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P054,Update 29.2: Patch Notes,2024-05-14,2024-06-10,27,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+PUBG,P055,PUBG: BATTLEGROUNDS OG BATTLE ROYALE ON TWITCH RIVALS,2024-05-17,2024-05-17,0,NonSeasonal,16,Active,Free,Promo,OutGame,Currency,Mid,arch_24
+PUBG,P056,Shroud vs DanucD,2024-05-18,2024-05-18,0,NonSeasonal,17,Active,Free,Promo,OutGame,Currency,Mid,arch_24
+PUBG,P057,PUBG: SQUAD BATTLE IS BACK!,2024-05-18,2024-05-18,0,NonSeasonal,17,Active,Free,Promo,Stream,Currency,Mid,arch_other
+PUBG,P058,Weekend Drops,2024-05-24,2024-05-27,3,NonSeasonal,16,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P059,Booster Check-in 2,2024-05-29,2024-06-11,13,NonSeasonal,13,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P060,Pharaoh's Guard,2024-05-29,2025-02-12,259,Seasonal,13,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P061,Update 30.1: Patch Notes,2024-06-11,2024-07-09,28,NonSeasonal,14,Login,Free,Season,Login,None,Low,arch_22
+PUBG,P062,Update 30.1: Patch Notes,2024-06-11,2024-07-09,28,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+PUBG,P063,PUBG x NewJeans (Mission),2024-06-12,2024-06-25,13,NonSeasonal,22,Active,Free,Collab,Mission,Currency,Mid,arch_32
+PUBG,P064,Check-in Event,2024-06-12,2024-07-09,27,NonSeasonal,22,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P065,LAND LOOT SURVIVE,2024-06-12,2024-07-09,27,NonSeasonal,22,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P066,Moment of Truth,2024-06-12,2024-07-09,27,NonSeasonal,22,Active,Free,Existing,Mission,Currency,High,arch_13
+PUBG,P067,NewJeans Web Event,2024-06-12,2024-07-09,27,NonSeasonal,22,Active,Free,Collab,OutGame,Currency,Low,arch_other
+PUBG,P068,The Collector,2024-06-12,2024-07-10,28,NonSeasonal,22,Active,Paid,Collab,Mission,Currency,Low,arch_other
+PUBG,P069,Survivor Pass: Grunge Queen,2024-06-12,2024-07-10,28,Seasonal,22,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P070,BATTLEGROUNDS Plus (Special Price),2024-06-12,2024-07-10,28,Seasonal,22,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P071,Collaboration: PUBG x NewJeans,2024-06-12,2024-07-10,28,Seasonal,22,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+PUBG,P072,Hideout: Rest in Pink - Dragunov (Contraband Crate),2024-06-12,2024-11-06,147,Seasonal,22,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P073,Scrap Broker: Rest in Pink - Dragunov,2024-06-12,2024-11-06,147,Seasonal,22,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P074,Bonus Special Drops for June,2024-06-14,2024-06-20,6,NonSeasonal,21,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P075,Summer Gift Event!,2024-07-10,2024-07-24,14,Seasonal,20,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P076,Win Streak Challenge,2024-07-10,2024-07-24,14,Seasonal,20,Active,Free,Existing,Mission,Currency,High,arch_13
+PUBG,P077,The Collector (Lamborghini),2024-07-10,2024-08-18,39,Seasonal,20,Active,Paid,Collab,Mission,Skin,Low,arch_30
+PUBG,P078,Collaboration: Automobili Lamborghini,2024-07-10,2024-09-04,56,Seasonal,20,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+PUBG,P079,Hideout: Summer Fog of Fury (Contraband Crate),2024-07-10,2024-12-04,147,Seasonal,20,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P080,Scrap Broker: Fog of Fury - M79,2024-07-10,2024-12-04,147,Seasonal,20,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P081,Hot Weekend Event!,2024-07-12,2024-07-15,3,Seasonal,17,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P082,Fantasy Battle Royale Event,2024-07-24,2024-08-07,14,Seasonal,18,Active,Free,NewContent,Mission,Skin,Mid,arch_20
+PUBG,P083,Summer Bikini 2024,2024-07-24,2025-04-09,259,Seasonal,18,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P084,Clan Month Twitch Drops,2024-08-07,2024-09-01,25,Seasonal,23,Active,Free,Promo,OutGame,Currency,Mid,arch_24
+PUBG,P085,Summer Camp (August Check-in),2024-08-07,2024-09-03,27,Seasonal,23,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P086,Rise Together!,2024-08-07,2024-09-03,27,Seasonal,23,Active,Free,Social,Mission,Currency,Mid,arch_23
+PUBG,P087,Hideout: No Signal - M416 (Contraband Crate),2024-08-07,2025-01-15,161,Seasonal,23,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P088,Scrap Broker: No Signal - M416,2024-08-07,2025-01-15,161,Seasonal,23,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P089,Doggy Day Care,2024-08-07,2025-05-14,280,Seasonal,23,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P090,Update 31.1: Patch Notes,2024-08-07,2024-09-03,27,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+PUBG,P091,Update 31.1: Patch Notes,2024-08-07,2024-09-03,27,NonSeasonal,23,Login,Free,Season,Login,None,Low,arch_22
+PUBG,P092,Clan Race Event (Discord),2024-08-08,2024-08-22,14,Seasonal,23,Active,Free,Promo,OutGame,Currency,Mid,arch_24
+PUBG,P093,Celebrate the Clan Month with PUBG Partners!,2024-08-13,2024-09-28,46,Seasonal,24,Active,Free,Promo,OutGame,Currency,Mid,arch_24
+PUBG,P094,Spirit of the Tiger,2024-08-14,2024-08-27,13,Seasonal,25,Active,Free,Existing,Mission,Currency,Low,arch_21
+PUBG,P095,Weekend Special Drops for August,2024-08-17,2024-08-24,7,Seasonal,26,Active,Free,Existing,Mission,Currency,Low,arch_21
+PUBG,P096,Collaboration: 2024 Ali the Fox,2024-08-21,2024-11-20,91,Seasonal,26,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+PUBG,P097,Get your Free Voting Coupon!,2024-09-04,2024-09-07,3,NonSeasonal,26,Active,Free,Existing,Mission,Lottery,Low,arch_other
+PUBG,P098,Survivor Pass: Zero Gravity,2024-09-04,2024-10-02,28,Seasonal,26,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P099,Veil of Taego Web Event,2024-09-04,2024-10-10,36,NonSeasonal,26,Active,Free,NewContent,OutGame,Currency,Low,arch_other
+PUBG,P100,Veil of Taego Secret Mission,2024-09-04,2024-10-10,36,NonSeasonal,26,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+PUBG,P101,Chuseok 2024,2024-09-04,2024-11-06,63,Seasonal,26,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P102,Hideout: ZERO-G - MP5K (Contraband Crate),2024-09-04,2025-02-12,161,Seasonal,26,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P103,Scrap Broker: ZERO-G - MP5K,2024-09-04,2025-02-12,161,Seasonal,26,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P104,Catch the Moon Rabbit!,2024-09-13,2024-09-20,7,NonSeasonal,23,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P105,Collaboration: The Golden Dragon's Loadout (LFLong),2024-09-18,2024-12-18,91,Seasonal,24,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+PUBG,P106,Survivors Left Behind (Arcade),2024-09-19,2024-10-10,21,NonSeasonal,26,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P107,Web Event - Survive from the Hunger!,2024-09-19,2024-10-10,21,NonSeasonal,26,Active,Free,Existing,OutGame,Currency,Low,arch_12
+PUBG,P108,PUBG Drops Day!,2024-09-20,2024-09-23,3,NonSeasonal,27,Active,Free,Existing,Mission,Currency,Low,arch_21
+PUBG,P109,Autumn Breeze Check-in,2024-10-01,2024-10-08,7,NonSeasonal,25,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P110,5-Day Check-In Event 1,2024-10-10,2024-10-17,7,NonSeasonal,32,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P111,Nightmare Quest!,2024-10-10,2024-11-03,24,NonSeasonal,32,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P112,Survivor Pass: Bedtime Beasts,2024-10-10,2024-11-06,27,Seasonal,32,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P113,Collaboration: Pirate KIM's Crate Returns,2024-10-10,2024-11-06,27,Seasonal,32,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+PUBG,P114,2024 Halloween,2024-10-10,2024-12-04,55,Seasonal,32,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P115,Collaboration: YOASOBI Emote,2024-10-10,2025-01-09,91,Seasonal,32,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+PUBG,P116,Hideout: Midnight Menace - Kar98k (Contraband Crate),2024-10-10,2025-03-12,153,Seasonal,32,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P117,Scrap Broker: Midnight Menace - Kar98k,2024-10-10,2025-03-12,153,Seasonal,32,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P118,Update 32.1: Patch Notes,2024-10-10,2024-11-05,26,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+PUBG,P119,Update 32.1: Patch Notes,2024-10-10,2024-11-05,26,NonSeasonal,32,Login,Free,Season,Login,None,Low,arch_22
+PUBG,P120,Collaboration: 2024 Global Partner Team (Vol.3),2024-10-16,2024-11-20,35,Seasonal,26,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+PUBG,P121,Booster Weekend 1,2024-10-18,2024-10-21,3,NonSeasonal,26,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P122,Collaboration: NieR Series,2024-10-23,2024-11-20,28,Seasonal,26,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+PUBG,P123,5-Day Check-In Event 2,2024-10-24,2024-10-31,7,NonSeasonal,27,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P124,Booster Weekend 2,2024-11-01,2024-11-04,3,NonSeasonal,27,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P125,Double G-COIN Promotion,2024-11-06,2024-11-13,7,Seasonal,33,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P126,Black Market 2024 Contraband Crate (Week 1: Mk12),2024-11-06,2024-11-13,7,Seasonal,33,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P127,Black Market Check-In 1,2024-11-06,2024-11-20,14,NonSeasonal,33,Login,Free,NewContent,Login,Currency,Low,arch_other
+PUBG,P128,Clan Mission,2024-11-06,2024-12-04,28,NonSeasonal,33,Active,Free,Social,Mission,Currency,Mid,arch_23
+PUBG,P129,Black Market 2024,2024-11-06,2024-12-04,28,Seasonal,33,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P130,Crafter Pass: Black Market 2024,2024-11-06,2024-12-04,28,Seasonal,33,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P131,Black Market 2024 Loot Cache Packs,2024-11-06,2024-12-04,28,Seasonal,33,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P132,Black Market 2024 Special Crafting,2024-11-06,2024-12-09,33,Seasonal,33,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P133,Collaboration: Malatanghulu Emote,2024-11-06,2025-02-05,91,Seasonal,33,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+PUBG,P134,Black Market 2024 Contraband Crate (Week 2: Beryl M762),2024-11-13,2024-11-20,7,Seasonal,31,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P135,PGC 2024 Game Day Gear & Pick'em Challenge,2024-11-13,2024-12-20,37,Seasonal,31,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P136,Vote for PGC 2024!,2024-11-13,2024-12-21,38,NonSeasonal,31,Active,Free,NewContent,OutGame,Lottery,Mid,arch_other
+PUBG,P137,Black Market 2024 Contraband Crate (Week 3: ACE32),2024-11-20,2024-11-27,7,Seasonal,32,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P138,Hot Drop Now!,2024-11-20,2024-12-03,13,NonSeasonal,32,Active,Free,NewContent,Mission,Currency,High,arch_31
+PUBG,P139,Black Market Check-In 2,2024-11-20,2024-12-04,14,NonSeasonal,32,Login,Free,NewContent,Login,Currency,Low,arch_other
+PUBG,P140,Booster Weekend 1,2024-11-22,2024-11-25,3,NonSeasonal,28,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P141,Black Market 2024 Contraband Crate (Week 4: M24),2024-11-27,2024-12-04,7,Seasonal,29,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P142,Collaboration: Aixleft,2024-11-27,2025-02-26,91,Seasonal,29,Active,Paid,Collab,Purchase,Gacha,Low,arch_19
+PUBG,P143,Sanhok Partner Challenge,2024-12-04,2024-12-18,14,NonSeasonal,39,Active,Free,Promo,OutGame,Currency,Mid,arch_24
+PUBG,P144,PGC 2024 Streaming Mission,2024-12-04,2024-12-21,17,NonSeasonal,39,Active,Free,Esports,OutGame,Currency,Low,arch_35
+PUBG,P145,Sanhok Destruction Missions,2024-12-04,2024-12-26,22,NonSeasonal,39,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+PUBG,P146,Booster Check-in (Dec),2024-12-04,2024-12-26,22,NonSeasonal,39,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P147,Shadow Striker Check-in,2024-12-04,2024-12-26,22,NonSeasonal,39,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P148,Year-end Check-in,2024-12-04,2024-12-26,22,NonSeasonal,39,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P149,Survivor Pass: Let It Snow,2024-12-04,2025-01-01,28,Seasonal,39,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P150,Collaboration Emote: Run Away,2024-12-04,2025-01-03,30,Seasonal,39,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+PUBG,P151,Golden Egg Web Event,2024-12-04,2025-01-22,49,NonSeasonal,39,Active,Free,NewContent,OutGame,Currency,Low,arch_other
+PUBG,P152,Hideout: Colored Smoke Grenade (Contraband Crate),2024-12-04,2025-05-14,161,Seasonal,39,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P153,Scrap Broker: Magenta/Emerald Smoke Grenade,2024-12-04,2025-05-14,161,Seasonal,39,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P154,Update 33.1: Patch Notes,2024-12-04,2025-01-14,41,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+PUBG,P155,Update 33.1: Patch Notes,2024-12-04,2025-01-14,41,NonSeasonal,39,Login,Free,Season,Login,None,Low,arch_22
+PUBG,P156,Sanhok Squad Streams,2024-12-06,2024-12-15,9,NonSeasonal,31,Active,Free,Promo,OutGame,Skin,Mid,arch_other
+PUBG,P157,Collaboration: PUBG x B.Duck Series Returns,2024-12-11,2025-03-05,84,Seasonal,31,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+PUBG,P158,Tactical Winter Mission,2024-12-18,2025-01-01,14,NonSeasonal,31,Active,Free,Existing,Mission,Skin,Mid,arch_11
+PUBG,P159,Hot Drop Now!,2024-12-20,2024-12-23,3,NonSeasonal,30,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P160,End of the Year Gifts!,2024-12-23,2024-12-30,7,NonSeasonal,28,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P161,End of the Year Gifts! 2,2024-12-27,2024-12-31,4,NonSeasonal,24,Login,Free,Existing,Login,Skin,Low,arch_other
+PUBG,P162,2025 New Year's Gift,2025-01-01,2025-01-07,6,Seasonal,24,Active,Free,NewContent,Login,Skin,Low,arch_other
+PUBG,P163,Hideout: Spring Fest 2024 Returns (Contraband Crate),2025-01-01,2025-01-15,14,Seasonal,24,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P164,Scrap Broker: [PROGRESSIVE] Sun Wukong - M416,2025-01-01,2025-01-15,14,Seasonal,24,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P165,Surprise Weekend Drops,2025-01-10,2025-01-13,3,Seasonal,19,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P166,Chaos in Sanhok!,2025-01-15,2025-01-22,7,Seasonal,26,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P167,The Collector,2025-01-15,2025-03-12,56,Seasonal,26,Active,Paid,Collab,Mission,Skin,Low,arch_30
+PUBG,P168,Crafter Pass: Spring Fest 2025,2025-01-15,2025-03-12,56,Seasonal,26,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P169,Hideout: Minotaur - AUG (Contraband Crate),2025-01-15,2025-03-12,56,Seasonal,26,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P170,Siren Step Up Package,2025-01-15,2025-03-12,56,Seasonal,26,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P171,Spring Fest 2025 Loot Cache Packs,2025-01-15,2025-03-12,56,Seasonal,26,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P172,Spring Fest 2025: The Collector,2025-01-15,2025-03-12,56,Seasonal,26,Active,Paid,NewContent,Mission,Skin,Low,arch_other
+PUBG,P173,Scrap Broker: [PROGRESSIVE] Minotaur - AUG,2025-01-15,2025-03-12,56,Seasonal,26,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P174,Spring Fest 2025 Special Crafting,2025-01-15,2025-03-17,61,Seasonal,26,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P175,PUBG Drops Day 1,2025-01-18,2025-01-21,3,Seasonal,23,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P176,Spring Fest Check-In Event,2025-01-22,2025-02-05,14,Seasonal,23,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P177,The Snake's Feast!,2025-01-28,2025-02-04,7,Seasonal,23,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P178,PUBG Drops Day 2,2025-01-28,2025-02-04,7,Seasonal,23,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P179,Weekend Loot Fest,2025-02-07,2025-02-10,3,Seasonal,20,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P180,Check-in Dinner 1,2025-02-12,2025-02-26,14,Seasonal,22,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P181,King of the Hill!,2025-02-12,2025-02-26,14,Seasonal,22,Active,Free,NewContent,Mission,Currency,High,arch_31
+PUBG,P182,Update 34.1: Patch Notes,2025-02-12,2025-03-11,27,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+PUBG,P183,Update 34.1: Patch Notes,2025-02-12,2025-03-11,27,NonSeasonal,22,Login,Free,Season,Login,None,Low,arch_22
+PUBG,P184,Weekend Bonus 1,2025-02-21,2025-02-24,3,Seasonal,20,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P185,Check-in Dinner 2,2025-02-26,2025-03-12,14,Seasonal,21,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P186,2025 Valentine's Day,2025-02-26,2025-11-05,252,Seasonal,21,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P187,Weekend Bonus 2,2025-03-07,2025-03-10,3,NonSeasonal,18,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P188,8th Anniversary Partner Drops,2025-03-12,2025-03-24,12,NonSeasonal,25,Active,Free,Anniversary,Stream,Currency,Low,arch_other
+PUBG,P189,8th Anniversary with You,2025-03-12,2025-03-26,14,NonSeasonal,25,Login,Free,Anniversary,Login,Skin,Low,arch_other
+PUBG,P190,8th Anniversary Web Event,2025-03-12,2025-04-08,27,NonSeasonal,25,Active,Free,Anniversary,OutGame,Currency,Low,arch_other
+PUBG,P191,Lucky 8!,2025-03-12,2025-04-09,28,NonSeasonal,25,Active,Free,Anniversary,Mission,Currency,Mid,arch_36
+PUBG,P192,Survivor Pass: Spirit Squad,2025-03-12,2025-04-09,28,Seasonal,25,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P193,Collaboration Emote: Slickback,2025-03-12,2025-04-11,30,Seasonal,25,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+PUBG,P194,Hideout: Hocus Focus - Mk12 (Contraband Crate),2025-03-12,2025-08-13,154,Seasonal,25,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P195,Scrap Broker: [PROGRESSIVE] Hocus Focus - Mk12,2025-03-12,2025-08-13,154,Seasonal,25,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P196,Sisters of Sorcery,2025-03-12,2025-12-03,266,Seasonal,25,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P197,8th Anniversary Surprise!,2025-03-23,2025-03-24,1,NonSeasonal,16,Login,Free,Anniversary,Login,Currency,Low,arch_25
+PUBG,P198,8th Anniversary Surprise! 2,2025-03-23,2025-03-24,1,NonSeasonal,16,Active,Free,Anniversary,Mission,Currency,Low,arch_other
+PUBG,P199,Mission: 8,2025-03-26,2025-03-31,5,NonSeasonal,15,Active,Free,Anniversary,Mission,Currency,Mid,arch_36
+PUBG,P200,Commando Drop-In,2025-03-26,2025-04-09,14,NonSeasonal,15,Login,Free,Anniversary,Login,Currency,Low,arch_25
+PUBG,P201,Treasure Basket!,2025-04-09,2025-04-23,14,NonSeasonal,20,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+PUBG,P202,Survivor Pass: Steampunk Revival,2025-04-09,2025-05-07,28,Seasonal,20,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P203,Eggsplorer!,2025-04-09,2025-05-13,34,NonSeasonal,20,Active,Free,NewContent,Mission,Skin,Mid,arch_20
+PUBG,P204,Hideout: Chrono Cannon - SKS (Contraband Crate),2025-04-09,2025-09-10,154,Seasonal,20,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P205,Scrap Broker: [PROGRESSIVE] Chrono Cannon - SKS,2025-04-09,2025-09-10,154,Seasonal,20,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P206,Contender: Hanna (Archivist's Chest),2025-04-09,2025-10-15,189,Seasonal,20,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P207,Artisan Crafting: Hanna Record File & New Sets,2025-04-09,2025-10-15,189,Seasonal,20,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P208,Update 35.1: Patch Notes,2025-04-09,2025-05-13,34,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+PUBG,P209,Update 35.1: Patch Notes,2025-04-09,2025-05-13,34,NonSeasonal,20,Login,Free,Season,Login,None,Low,arch_22
+PUBG,P210,PUBG Drops Day!,2025-04-18,2025-04-28,10,NonSeasonal,16,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P211,Weekend Loot Fest 1,2025-04-25,2025-04-28,3,NonSeasonal,16,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P212,Golden Check-in Event,2025-04-30,2025-05-14,14,NonSeasonal,15,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P213,Weekend Loot Fest 2,2025-05-02,2025-05-05,3,NonSeasonal,17,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P214,PUBG Drops Day!,2025-05-02,2025-05-05,3,NonSeasonal,17,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P215,New or Return? Reward!,2025-05-14,2025-05-28,14,NonSeasonal,19,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P216,Fortune Madness!,2025-05-14,2025-05-28,14,NonSeasonal,19,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P217,Jump into Taego!,2025-05-14,2025-05-28,14,NonSeasonal,19,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P218,Survivor Pass: Moghoul Rampage,2025-05-14,2025-06-11,28,Seasonal,19,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P219,Hideout: Demon's Touch - ACE32 (Contraband Crate),2025-05-14,2025-10-15,154,Seasonal,19,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P220,Scrap Broker: [PROGRESSIVE] Demon's Touch - ACE32,2025-05-14,2025-10-15,154,Seasonal,19,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P221,Sweet and Deadly,2025-05-14,2026-01-01,0,Seasonal,19,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P222,Coin Flash Drop,2025-05-17,2025-05-18,1,NonSeasonal,17,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P223,Coupon Flash Drop,2025-05-17,2025-05-18,1,NonSeasonal,17,Active,Free,Existing,Mission,Currency,Low,arch_21
+PUBG,P224,Supply Reinforcement,2025-05-28,2025-06-11,14,NonSeasonal,16,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P225,Fire Up the Weekend!,2025-05-30,2025-06-02,3,NonSeasonal,14,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P226,PUBG #RankedRelayChallenge,2025-06-10,2025-06-23,13,NonSeasonal,14,Active,Free,Promo,OutGame,Currency,Mid,arch_24
+PUBG,P227,Double G-Coin Promotion,2025-06-11,2025-06-18,7,Seasonal,26,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P228,Black Market 2025 Contraband Crate (Week 1: M416),2025-06-11,2025-06-18,7,Seasonal,26,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P229,Black Market Check-in 1,2025-06-11,2025-06-25,14,NonSeasonal,26,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P230,Rank Up! (Ranked Event 1),2025-06-11,2025-06-25,14,NonSeasonal,26,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P231,Flex those Coupons!,2025-06-11,2025-07-09,28,NonSeasonal,26,Active,Free,Existing,Mission,Currency,Low,arch_21
+PUBG,P232,Black Market 2025,2025-06-11,2025-07-09,28,Seasonal,26,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P233,Crafter Pass: Black Market 2025,2025-06-11,2025-07-09,28,Seasonal,26,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P234,Collaboration Emote: UCHIDA,2025-06-11,2025-07-11,30,Seasonal,26,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+PUBG,P235,Black Market 2025 Special Crafting,2025-06-11,2025-07-14,33,Seasonal,26,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P236,Ready for Ranked!,2025-06-11,2025-08-12,62,NonSeasonal,26,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P237,Castello Autohaus,2025-06-11,2026-01-01,0,Seasonal,26,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P238,Update 36.1: Patch Notes,2025-06-11,2025-07-08,27,NonSeasonal,26,Login,Free,Season,Login,None,Low,arch_22
+PUBG,P239,Update 36.1: Patch Notes,2025-06-11,2025-07-08,27,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+PUBG,P240,Black Market 2025 Contraband Crate (Week 2: Kar98k),2025-06-18,2025-06-25,7,Seasonal,25,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P241,Prove Your Rank! (Ranked Event 2),2025-06-20,2025-06-23,3,NonSeasonal,24,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P242,Black Market 2025 Contraband Crate (Week 3: MP5K),2025-06-25,2025-07-02,7,Seasonal,24,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P243,Black Market Check-in 2,2025-06-25,2025-07-09,14,NonSeasonal,24,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P244,PUBG Drops Day!,2025-06-28,2025-06-29,1,NonSeasonal,22,Active,Free,Existing,Mission,Currency,Low,arch_21
+PUBG,P245,Black Market 2025 Contraband Crate (Week 4: SLR),2025-07-02,2025-07-09,7,Seasonal,22,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P246,Virtual Vibe Check-in,2025-07-09,2025-07-23,14,Seasonal,30,Login,Free,Collab,Login,Currency,Low,arch_26
+PUBG,P247,Tadpole Training Camp,2025-07-09,2025-07-30,21,Seasonal,30,Active,Free,Existing,Mission,Skin,Mid,arch_11
+PUBG,P248,PUBG x aespa (In-game),2025-07-09,2025-07-30,21,Seasonal,30,Active,Free,Collab,Mission,Currency,Mid,arch_32
+PUBG,P249,Survivor Pass: Kiss The Sun,2025-07-09,2025-08-06,28,Seasonal,30,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P250,Collaboration: PUBG x aespa,2025-07-09,2025-08-06,28,Seasonal,30,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+PUBG,P251,The Collector (aespa),2025-07-09,2025-08-11,33,Seasonal,30,Active,Paid,Collab,Mission,Skin,Low,arch_30
+PUBG,P252,PUBG x aespa Web Event,2025-07-09,2025-08-11,33,Seasonal,30,Active,Free,Collab,OutGame,Currency,Low,arch_other
+PUBG,P253,PGC 2024 Champion Set (The Expendables),2025-07-09,2025-08-13,35,Seasonal,30,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P254,Hideout: Magical Mist - M79 (Contraband Crate),2025-07-09,2025-12-03,147,Seasonal,30,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P255,Scrap Broker: Magical Mist - M79,2025-07-09,2025-12-03,147,Seasonal,30,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P256,Grind for the Vote!,2025-07-16,2025-07-25,9,Seasonal,28,Active,Free,Esports,Mission,Lottery,Mid,arch_other
+PUBG,P257,PNC 2025 Pick'em Challenge,2025-07-16,2025-07-25,9,Seasonal,28,Active,Free,NewContent,Mission,Skin,Mid,arch_20
+PUBG,P258,Vote your winning team!,2025-07-16,2025-08-06,21,Seasonal,28,Active,Free,Esports,OutGame,Currency,Mid,arch_other
+PUBG,P259,PNC 2025 Loot Cache Packs,2025-07-16,2025-08-06,21,Seasonal,28,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P260,PNC 2025 Special Crafting,2025-07-16,2025-08-11,26,Seasonal,28,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P261,12-Hour Drop! & Blast!,2025-07-19,2025-07-19,0,Seasonal,29,Active,Free,Collab,Mission,Currency,Low,arch_other
+PUBG,P262,PNC 2025 is Live Now!,2025-07-23,2025-07-25,2,Seasonal,31,Active,Free,Esports,Stream,Lottery,Low,arch_other
+PUBG,P263,Battleline Check-in,2025-07-23,2025-08-06,14,Seasonal,31,Login,Free,Esports,Login,Currency,Low,arch_other
+PUBG,P264,Collaboration: Pigff,2025-07-23,2025-10-22,91,Seasonal,31,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+PUBG,P265,Weekend Snap-in,2025-08-08,2025-08-11,3,Seasonal,21,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P266,Survival Week,2025-08-13,2025-08-20,7,Seasonal,24,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P267,UGC Alpha Livestreams,2025-08-13,2025-09-09,27,Seasonal,24,Active,Free,Promo,Stream,Currency,Low,arch_16
+PUBG,P268,Survivor Pass: Wild Things,2025-08-13,2025-09-10,28,Seasonal,24,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P269,Collaboration: PUBG x Bugatti,2025-08-13,2025-10-08,56,Seasonal,24,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+PUBG,P270,Hideout: Sun Scorched - S1897 (Contraband Crate),2025-08-13,2026-01-01,0,Seasonal,24,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P271,Scrap Broker: [PROGRESSIVE] Sun Scorched - S1897,2025-08-13,2026-01-01,0,Seasonal,24,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P272,Beary Cozy Bear,2025-08-13,2026-01-01,0,Seasonal,24,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P273,Update 37.1: Patch Notes,2025-08-13,2025-09-09,27,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+PUBG,P274,Update 37.1: Patch Notes,2025-08-13,2025-09-09,27,NonSeasonal,24,Login,Free,Season,Login,None,Low,arch_22
+PUBG,P275,Check-In Combo 1,2025-08-15,2025-08-18,3,Seasonal,22,Login,Free,Collab,Login,Currency,Low,arch_26
+PUBG,P276,Check-In Combo 2,2025-08-20,2025-08-27,7,Seasonal,23,Login,Free,Collab,Login,Currency,Low,arch_26
+PUBG,P277,GPT2025 (Global Partner Team),2025-08-20,2025-09-17,28,Seasonal,23,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P278,Continue or Quit? (POBG),2025-08-21,2025-09-09,19,Seasonal,23,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+PUBG,P279,Check-In Combo 3,2025-08-28,2025-09-02,5,Seasonal,23,Login,Free,Collab,Login,Currency,Low,arch_26
+PUBG,P280,Check-In Combo 4,2025-09-04,2025-09-09,5,NonSeasonal,23,Login,Free,Collab,Login,Currency,Low,arch_26
+PUBG,P281,PUBG x G-DRAGON Web Event,2025-09-10,2025-09-23,13,NonSeasonal,30,Active,Free,Collab,OutGame,Lottery,Low,arch_other
+PUBG,P282,Check-in Dinner 1,2025-09-10,2025-09-24,14,NonSeasonal,30,Login,Free,Collab,Login,Currency,Low,arch_26
+PUBG,P283,PUBG x G-DRAGON (In-game),2025-09-10,2025-10-01,21,NonSeasonal,30,Active,Free,Collab,Mission,Currency,Mid,arch_32
+PUBG,P284,Survivor Pass: Donut Debacle,2025-09-10,2025-10-08,28,Seasonal,30,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P285,Collaboration: PUBG x G-DRAGON,2025-09-10,2025-10-08,28,Seasonal,30,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+PUBG,P286,Draw Challenge (G-DRAGON),2025-09-10,2025-10-15,35,NonSeasonal,30,Active,Paid,Collab,Mission,Skin,Low,arch_30
+PUBG,P287,The Collector (G-DRAGON),2025-09-10,2025-10-15,35,NonSeasonal,30,Active,Paid,Collab,Mission,Skin,Low,arch_30
+PUBG,P288,Hideout: G-DRAGON - AUG (Contraband Crate),2025-09-10,2025-10-15,35,Seasonal,30,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+PUBG,P289,G-DRAGON Step Up Packs,2025-09-10,2025-10-15,35,Seasonal,30,Active,Paid,Collab,Purchase,Gacha,Low,arch_19
+PUBG,P290,G-DRAGON Step Up Vouchers,2025-09-10,2025-10-15,35,Seasonal,30,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+PUBG,P291,Punk Bunny’s Hoppy Chuseok,2025-09-10,2026-01-01,0,Seasonal,30,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P292,Check-in Dinner 2,2025-09-24,2025-10-08,14,NonSeasonal,28,Login,Free,Collab,Login,Currency,Low,arch_26
+PUBG,P293,Endless Survival,2025-09-24,2025-10-14,20,NonSeasonal,28,Active,Free,Existing,Mission,Currency,High,arch_13
+PUBG,P294,XingHun’s Tiger Collection,2025-09-24,2025-12-24,91,Seasonal,28,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+PUBG,P295,Nightmare Overrun,2025-10-02,2025-10-14,12,NonSeasonal,27,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P296,Survivor Pass: Día De Los Muertos,2025-10-15,2025-11-12,28,Seasonal,28,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P297,Collaboration Emote: Stadium Rave,2025-10-15,2025-11-14,30,Seasonal,28,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+PUBG,P298,Hideout: Final Serenade - M24 (Contraband Crate),2025-10-15,2026-01-01,0,Seasonal,28,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P299,Scrap Broker: [PROGRESSIVE] Final Serenade - M24,2025-10-15,2026-01-01,0,Seasonal,28,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P300,Contender: Dorian (Archivist's Chest),2025-10-15,2026-01-01,0,Seasonal,28,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P301,Artisan Crafting: Dorian Record File & New Sets,2025-10-15,2026-01-01,0,Seasonal,28,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P302,Update 38.1: Patch Notes,2025-10-15,2025-11-04,20,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+PUBG,P303,Update 38.1: Patch Notes,2025-10-15,2025-11-04,20,NonSeasonal,28,Login,Free,Season,Login,None,Low,arch_22
+PUBG,P304,Autumn Breeze Check-in 1,2025-10-17,2025-10-20,3,NonSeasonal,20,Login,Free,Existing,Login,Currency,Low,arch_02
+PUBG,P305,Event Pass: Skibidi Toilet,2025-10-22,2025-11-05,14,Seasonal,22,Active,Paid,Collab,Purchase,Pass,Low,arch_other
+PUBG,P306,GPT2025 (Global Partner Team Vol.2),2025-10-22,2025-11-19,28,Seasonal,22,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P307,2025 PUBG Global Partner Team Edition Skins Vol.2,2025-10-22,2025-11-19,28,Seasonal,22,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+PUBG,P308,Autumn Breeze Check-in 2,2025-10-24,2025-10-27,3,NonSeasonal,22,Login,Free,Existing,Login,Skin,Low,arch_other
+PUBG,P309,12-Hour Drop!,2025-10-25,2025-10-25,0,NonSeasonal,23,Active,Free,Existing,Mission,Skin,Mid,arch_11
+PUBG,P310,Happy Halloween Event,2025-10-30,2025-11-04,5,NonSeasonal,22,Active,Free,Existing,Mission,Skin,Mid,arch_11
+PUBG,P311,Autumn Breeze Check-in 3,2025-10-31,2025-11-03,3,NonSeasonal,23,Login,Free,Existing,Login,Skin,Low,arch_other
+PUBG,P312,Special 7 Day Check-In Event,2025-11-05,2025-11-19,14,NonSeasonal,29,Login,Free,Collab,Login,Currency,Low,arch_26
+PUBG,P313,The Road to Chicken Dinner,2025-11-05,2025-11-19,14,NonSeasonal,29,Active,Free,Collab,Mission,Currency,Mid,arch_32
+PUBG,P314,PUBG x Porsche Web Event,2025-11-05,2025-11-20,15,NonSeasonal,29,Active,Free,Collab,OutGame,Currency,Mid,arch_other
+PUBG,P315,The Collector (Porsche),2025-11-05,2025-12-03,28,NonSeasonal,29,Active,Paid,Collab,Mission,Skin,Low,arch_30
+PUBG,P316,Crafter Pass: Porsche,2025-11-05,2025-12-03,28,Seasonal,29,Active,Paid,Collab,Purchase,Pass,Low,arch_other
+PUBG,P317,Vote your winning team!,2025-11-05,2025-12-12,37,NonSeasonal,29,Active,Free,Esports,OutGame,Lottery,Mid,arch_other
+PUBG,P318,PGC 2025,2025-11-05,2025-12-12,37,Seasonal,29,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P319,Hideout: Winter Eclipse - MP5K (Contraband Crate),2025-11-05,2026-01-01,0,Seasonal,29,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P320,Scrap Broker: [PROGRESSIVE] Winter Eclipse - MP5K,2025-11-05,2026-01-01,0,Seasonal,29,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P321,Prepare for the Harsh Winter,2025-11-19,2025-12-02,13,NonSeasonal,27,Login,Free,Collab,Login,Currency,Low,arch_26
+PUBG,P322,Cashout Crew,2025-11-19,2026-01-01,0,Seasonal,27,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P323,WINNER WINNER TURKEY DINNER!,2025-11-27,2025-11-29,2,NonSeasonal,23,Active,Free,Existing,Mission,Skin,Mid,arch_11
+PUBG,P324,Discord Quest,2025-12-03,2025-12-12,9,NonSeasonal,31,Active,Free,Promo,OutGame,Skin,Mid,arch_other
+PUBG,P325,Daily Check-in 1,2025-12-03,2025-12-16,13,NonSeasonal,31,Login,Free,Collab,Login,Currency,Low,arch_26
+PUBG,P326,LAND LOOT SURVIVE,2025-12-03,2025-12-23,20,NonSeasonal,31,Active,Free,Collab,Mission,Currency,High,arch_other
+PUBG,P327,Survivor Pass: Erangel Subzero,2025-12-03,2025-12-31,28,Seasonal,31,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+PUBG,P328,Collaboration: PUBG x BALENCIAGA,2025-12-03,2025-12-31,28,Seasonal,31,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+PUBG,P329,The Collector (BALENCIAGA),2025-12-03,2026-01-01,0,NonSeasonal,31,Active,Paid,Collab,Mission,Skin,Low,arch_30
+PUBG,P330,Hideout: Faded Ghost - AWM (Contraband Crate),2025-12-03,2026-01-01,0,Seasonal,31,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+PUBG,P331,Scrap Broker: [PROGRESSIVE] Faded Ghost - AWM,2025-12-03,2026-01-01,0,Seasonal,31,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P332,Winter Creatures,2025-12-03,2026-01-01,0,Seasonal,31,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+PUBG,P333,Update 39.1: Patch Notes,2025-12-03,2026-01-01,0,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+PUBG,P334,Update 39.1: Patch Notes,2025-12-03,2026-01-01,0,NonSeasonal,31,Login,Free,Season,Login,None,Low,arch_22
+PUBG,P335,Livestream Drops,2025-12-08,2025-12-19,11,NonSeasonal,27,Active,Free,Promo,Stream,Skin,Low,arch_10
+PUBG,P336,Weekend Heatwave!,2025-12-13,2025-12-13,0,NonSeasonal,25,Active,Free,Collab,Mission,Currency,Mid,arch_32
+PUBG,P337,End of the Year Gifts!,2025-12-24,2025-12-26,2,NonSeasonal,23,Active,Free,Existing,Mission,Currency,Mid,arch_01
+PUBG,P338,Daily Check-in 2,2025-12-24,2026-01-01,0,NonSeasonal,23,Login,Free,Collab,Login,Currency,Low,arch_26
+World of Warships,W001,워쉽 프리미엄 계정 1일 선물,2024-01-08,2024-02-05,28,Seasonal,1,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W002,UPDATE 13.0,2024-01-11,2024-02-08,28,Seasonal,9,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W003,미국 항공모함 이벤트 패스,2024-01-11,2024-02-08,28,Seasonal,9,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W004,미국 토큰,2024-01-11,2024-02-29,49,Seasonal,9,Active,Paid,NewContent,Purchase,Gacha,Low,arch_other
+World of Warships,W005,IX HALFORD를 무기고에서 구매 가능,2024-01-11,2026-01-01,0,Seasonal,9,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W006,랭크 전투,2024-01-11,2024-03-13,62,Seasonal,9,Active,Free,Season,Mission,Currency,Mid,arch_27
+World of Warships,W007,13.0 업데이트 수수께끼 선물,2024-01-11,2024-01-17,6,Seasonal,9,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W008,"오리건 트레일 패키지, 개척과 개발 패키지",2024-01-11,2024-02-08,28,Seasonal,9,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W009,HOLOLIVE 콜라보레이션 패키지,2024-01-11,2024-02-16,36,Seasonal,9,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+World of Warships,W010,twitch 도전 임무,2024-01-12,2024-02-16,35,Seasonal,10,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W011,난투,2024-01-15,2024-01-22,7,Seasonal,11,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W012,신호기 이벤트,2024-01-19,2024-01-23,4,Seasonal,11,Active,Free,Existing,OutGame,Lottery,Low,arch_33
+World of Warships,W013,호주의 날,2024-01-22,2024-01-29,7,Seasonal,13,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W014,난투2,2024-01-22,2024-01-29,7,Seasonal,13,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W015,X RHODE ISLAND 패키지,2024-01-24,2024-02-29,36,Seasonal,12,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W016,별의 특사,2024-01-25,2024-02-08,14,Seasonal,14,Active,Paid,Existing,Purchase,Gacha,Low,arch_other
+World of Warships,W017,서버 관련 보상 수령,2024-01-25,2024-02-01,7,Seasonal,14,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W018,난투3,2024-01-29,2024-02-05,7,Seasonal,15,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W019,Discord 선물,2024-01-30,2024-01-31,1,Seasonal,14,Active,Free,Promo,OutGame,Currency,Low,arch_39
+World of Warships,W020,현상금 사냥 이벤트,2024-02-01,2024-02-05,4,Seasonal,14,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W021,HOLOLIVE 콜라보레이션,2024-02-02,2024-02-16,14,Seasonal,15,Active,Free,Collab,Mission,Skin,Mid,arch_37
+World of Warships,W022,함장 클럽: Magellan TV 콘테스트,2024-02-02,2024-03-02,29,Seasonal,15,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W023,워쉽 프리미엄 계정 1일 선물,2024-02-06,2024-03-11,34,Seasonal,13,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W024,13.1 업데이트 twitch 선물,2024-02-07,2024-02-14,7,Seasonal,14,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W025,UPDATE 13.1,2024-02-08,2024-03-14,35,Seasonal,25,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W026,UPDATE 13.1 밸런스 패치,2024-02-08,2024-03-14,35,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+World of Warships,W027,Sicilia를 무기고에서 구매 가능,2024-02-08,2026-01-01,0,Seasonal,25,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W028,twitch 도전 임무,2024-02-08,2024-03-22,43,Seasonal,25,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W029,청룡의 해! 신년 맞이 이벤트!,2024-02-08,2024-02-25,17,Seasonal,25,Active,Free,Existing,Mission,Lottery,Low,arch_other
+World of Warships,W030,청룡의 해! 신년 맞이 이벤트!,2024-02-08,2024-02-25,17,Seasonal,25,Active,Free,Existing,Mission,Currency,Low,arch_21
+World of Warships,W031,이벤트 패스,2024-02-08,2024-03-14,35,Seasonal,25,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W032,축제 분위기 - 신규 순양함,2024-02-08,2024-03-14,35,Seasonal,25,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+World of Warships,W033,용의 해 패키지,2024-02-08,2024-03-14,35,Seasonal,25,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W034,헤일스톤 작전: 이륙 개시,2024-02-08,2024-02-29,21,Seasonal,25,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W035,무기고 및 프리미엄 상점: 크리에이터 패키지,2024-02-08,2024-03-24,45,Seasonal,25,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+World of Warships,W036,무기고 및 프리미엄 상점: 크리에이터 패키지,2024-02-08,2024-03-24,45,Seasonal,25,Active,Paid,Collab,Purchase,Gacha,Low,arch_19
+World of Warships,W037,함대 Tianjin,2024-02-09,2024-03-14,34,Seasonal,22,Active,Free,Existing,OutGame,Lottery,Low,arch_33
+World of Warships,W038,클랜 전투 24번째 시즌 해룡,2024-02-12,2024-04-08,56,Seasonal,25,Active,Free,Social,Mission,Currency,Mid,arch_23
+World of Warships,W039,Bismarck 진수 기념일,2024-02-12,2024-02-21,9,Seasonal,25,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W040,난투,2024-02-12,2024-02-19,7,Seasonal,25,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W041,자바해 해전,2024-02-16,2024-03-08,21,Seasonal,26,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W042,Minegumo 판매 개시!,2024-02-16,2024-03-08,21,Seasonal,26,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W043,난투2,2024-02-19,2024-02-26,7,Seasonal,24,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W044,비행선 호위,2024-02-21,2024-03-06,14,Seasonal,24,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W045,등불 축제,2024-02-22,2024-02-27,5,Seasonal,24,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+World of Warships,W046,난투3,2024-02-26,2024-03-05,8,Seasonal,23,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W047,"윤년, 4년마다 돌아오는 해",2024-02-27,2024-03-01,3,Seasonal,24,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W048,13.1 Discord 선물,2024-02-27,2024-02-29,2,Seasonal,24,Active,Free,Promo,OutGame,Currency,Low,arch_39
+World of Warships,W049,서유기 프리미엄 보급 화물,2024-03-01,2024-03-22,21,NonSeasonal,20,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W050,애독자 여러분을 위해 준비한 보너스 선물!,2024-03-07,2024-03-14,7,NonSeasonal,19,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W051,세계 여성의 날,2024-03-07,2024-03-14,7,NonSeasonal,19,Active,Free,Existing,OutGame,Skin,Low,arch_other
+World of Warships,W052,프리미엄 군함 보급 화물 추첨,2024-03-07,2024-03-14,7,NonSeasonal,19,Active,Free,Existing,OutGame,Lottery,Low,arch_33
+World of Warships,W053,파이 데이,2024-03-10,2024-03-15,5,NonSeasonal,18,Active,Free,Existing,Mission,Skin,Low,arch_other
+World of Warships,W054,랭크 전투,2024-03-13,2024-05-14,62,NonSeasonal,19,Active,Free,Season,Mission,Currency,Mid,arch_27
+World of Warships,W055,twitch 보상,2024-03-13,2024-03-20,7,NonSeasonal,19,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W056,UPDATE 13.2,2024-03-14,2024-04-11,28,NonSeasonal,27,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W057,UPDATE 13.2 밸런스 패치,2024-03-14,2024-04-11,28,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+World of Warships,W058,영연방 함대 이벤트 패스,2024-03-14,2024-04-11,28,NonSeasonal,27,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W059,전투 임무,2024-03-14,2024-05-16,63,NonSeasonal,27,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W060,연속 패키지,2024-03-14,2024-05-16,63,NonSeasonal,27,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W061,에메랄드 섬 패키지,2024-03-14,2024-04-11,28,NonSeasonal,27,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W062,"일일 기동 패키지, 집중 훈련 패키지",2024-03-14,2024-04-11,28,NonSeasonal,27,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W063,커뮤니티 토큰 선물,2024-03-14,2024-03-21,7,NonSeasonal,27,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W064,아일랜드의 행운,2024-03-14,2024-03-21,7,NonSeasonal,27,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W065,색채의 향연,2024-03-14,2024-06-14,92,NonSeasonal,27,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W066,특별 및 희귀 수익 보너스,2024-03-15,2024-03-20,5,NonSeasonal,21,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W067,난투,2024-03-15,2024-03-18,3,NonSeasonal,21,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W068,커뮤니티 토큰 선물,2024-03-16,2024-03-22,6,NonSeasonal,21,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W069,난투2,2024-03-18,2024-03-25,7,NonSeasonal,22,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W070,커뮤니티 토큰 선물,2024-03-20,2024-03-27,7,NonSeasonal,22,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W071,경매: 초군함 Maine,2024-03-21,2024-03-25,4,NonSeasonal,21,Active,Free,NewContent,Login,Currency,Low,arch_other
+World of Warships,W072,전투로 복귀하십시오!,2024-03-22,2024-03-31,9,NonSeasonal,21,Active,Free,Existing,Mission,Lottery,Mid,arch_34
+World of Warships,W073,쇄도하는 각종 보급 화물!,2024-03-22,2024-04-05,14,NonSeasonal,21,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W074,난투3,2024-03-25,2024-04-01,7,NonSeasonal,17,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W075,커뮤니티 토큰 선물,2024-03-26,2024-04-01,6,NonSeasonal,16,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W076,피냐타 사냥,2024-03-28,2024-04-11,14,NonSeasonal,18,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+World of Warships,W077,피냐타 선물,2024-03-28,2024-04-02,5,NonSeasonal,18,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W078,피냐타 사냥 - 전투 임무,2024-03-28,2024-04-11,14,NonSeasonal,18,Active,Free,NewContent,Mission,Skin,Mid,arch_20
+World of Warships,W079,금주의 상품: 화력 프리미엄 보급 화물,2024-03-29,2024-04-05,7,NonSeasonal,19,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W080,커뮤니티 토큰 선물,2024-04-01,2024-04-08,7,NonSeasonal,19,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W081,13.2 Discord 선물,2024-04-02,2024-04-03,1,NonSeasonal,18,Active,Free,Promo,OutGame,Currency,Low,arch_39
+World of Warships,W082,커뮤니티 토큰 선물,2024-04-04,2024-04-11,7,NonSeasonal,17,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W083,커뮤니티 토큰 선물,2024-04-06,2024-04-12,6,NonSeasonal,16,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W084,워쉽 프리미엄 계정 1일 선물,2024-04-08,2024-05-13,35,NonSeasonal,18,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W085,난투4,2024-04-08,2024-04-15,7,NonSeasonal,18,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W086,커뮤니티 토큰 선물,2024-04-09,2024-04-16,7,NonSeasonal,17,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W087,UPDATE 13.3,2024-04-11,2024-05-16,35,NonSeasonal,28,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W088,UPDATE 13.3 밸런스 패치,2024-04-11,2024-05-16,35,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+World of Warships,W089,개인 선창: WISCONSIN,2024-04-11,2024-07-10,90,NonSeasonal,28,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+World of Warships,W090,13.3 업데이트 twitch 선물,2024-04-11,2024-04-18,7,NonSeasonal,28,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W091,돌아온 비대칭 전투,2024-04-11,2024-05-16,35,NonSeasonal,28,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W092,개인 선창: WISCONSIN 패키지,2024-04-11,2024-07-10,90,NonSeasonal,28,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W093,골든 위크 이벤트 패스,2024-04-11,2024-05-16,35,NonSeasonal,28,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W094,솜 전투,2024-04-11,2024-05-16,35,NonSeasonal,28,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W095,무기고 패키지,2024-04-11,2024-05-16,35,NonSeasonal,28,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W096,무기고 패키지,2024-04-11,2024-05-16,35,NonSeasonal,28,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W097,강탈전!,2024-04-11,2024-05-16,35,NonSeasonal,28,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W098,모집소 전투 임무,2024-04-11,2024-05-16,35,NonSeasonal,28,Active,Free,Social,Mission,Currency,Mid,arch_23
+World of Warships,W099,커뮤니티 토큰 선물,2024-04-12,2024-04-18,6,NonSeasonal,22,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W100,송끄란 축제,2024-04-18,2024-04-22,4,NonSeasonal,21,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W101,골든 위크 : 소원의 부두,2024-04-18,2024-05-16,28,NonSeasonal,21,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W102,순양함 Wiesbaden: 보급 화물 및 연속 패키지,2024-04-19,2024-05-01,12,NonSeasonal,20,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W103,난투,2024-04-22,2024-04-29,7,NonSeasonal,21,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W104,근로자의 날,2024-04-25,2024-05-02,7,NonSeasonal,21,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W105,골든 위크,2024-04-27,2024-05-07,10,NonSeasonal,22,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W106,커뮤니티 토큰 선물,2024-04-29,2024-05-06,7,NonSeasonal,24,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W107,난투2,2024-04-29,2024-05-07,8,NonSeasonal,24,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W108,Tsurugi를 찾아서,2024-05-01,2024-05-07,6,NonSeasonal,25,Active,Free,NewContent,Mission,Currency,High,arch_31
+World of Warships,W109,커뮤니티 토큰 선물,2024-05-01,2024-05-08,7,NonSeasonal,25,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W110,유럽 전승 기념일,2024-05-02,2024-05-12,10,NonSeasonal,25,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W111,커뮤니티 토큰 선물,2024-05-03,2024-05-10,7,NonSeasonal,25,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W112,난투3,2024-05-06,2024-05-14,8,NonSeasonal,26,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W113,13.3 Discord 선물,2024-05-07,2024-05-10,3,NonSeasonal,26,Active,Free,Promo,OutGame,Currency,Low,arch_39
+World of Warships,W114,커뮤니티 토큰 선물,2024-05-08,2024-05-15,7,NonSeasonal,24,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W115,커뮤니티 토큰 선물,2024-05-09,2024-05-16,7,NonSeasonal,24,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W116,Tsurugi 판매 주간 시작!,2024-05-10,2024-05-16,6,NonSeasonal,25,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W117,워쉽 프리미엄 계정 1일 선물,2024-05-14,2024-06-10,27,NonSeasonal,22,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W118,UPDATE 13.4,2024-05-16,2024-06-13,28,NonSeasonal,30,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W119,UPDATE 13.4 밸런스 패치,2024-05-16,2024-06-13,28,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+World of Warships,W120,13.4 이벤트 패스: 벽람항로,2024-05-16,2024-06-13,28,NonSeasonal,30,Active,Paid,Collab,Purchase,Pass,Low,arch_other
+World of Warships,W121,벽람항로 여섯 번째 콜라보 기념 커뮤니티 이벤트,2024-05-16,2024-05-31,15,NonSeasonal,30,Active,Free,Collab,OutGame,Lottery,Low,arch_other
+World of Warships,W122,벽람항로 할인 쿠폰,2024-05-16,2024-05-23,7,NonSeasonal,30,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+World of Warships,W123,벽람항로 패키지,2024-05-16,2024-06-27,42,NonSeasonal,30,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W124,벽람항로: 바다의 수호자 보급 화물,2024-05-16,2024-06-27,42,NonSeasonal,30,Active,Paid,Collab,Purchase,Gacha,Low,arch_19
+World of Warships,W125,벽람항로 컬렉션,2024-05-16,2024-06-27,42,NonSeasonal,30,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+World of Warships,W126,랭크 전투 17번째 시즌,2024-05-16,2024-07-11,56,NonSeasonal,30,Active,Free,Season,Mission,Currency,Mid,arch_27
+World of Warships,W127,세계 유산의 날,2024-05-16,2024-06-10,25,NonSeasonal,30,Active,Free,Existing,OutGame,Currency,Mid,arch_29
+World of Warships,W128,독립을 향한 아르헨티나의 분투,2024-05-16,2024-05-30,14,NonSeasonal,30,Active,Free,Existing,OutGame,Skin,Mid,arch_40
+World of Warships,W129,Mystery Drop,2024-05-16,2024-05-23,7,NonSeasonal,30,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W130,무기고 Komissar 패키지,2024-05-18,2024-06-13,26,NonSeasonal,18,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W131,난투,2024-05-20,2024-05-27,7,NonSeasonal,19,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W132,클랜 전투 25번째 시즌 북극곰,2024-05-22,2024-06-10,19,NonSeasonal,22,Active,Free,Social,Mission,Currency,Mid,arch_23
+World of Warships,W133,전몰장병 추모일,2024-05-22,2024-06-05,14,NonSeasonal,22,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W134,위대한 해전,2024-05-22,2024-06-05,14,NonSeasonal,22,Active,Free,Existing,Mission,Gacha,Mid,arch_other
+World of Warships,W135,HMS Hood를 기리며,2024-05-23,2024-05-30,7,NonSeasonal,24,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W136,함장 클럽: Magellan TV 콘테스트,2024-05-23,2024-06-05,13,NonSeasonal,24,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W137,Warhammer 콜라보 패키지,2024-05-24,2024-06-07,14,NonSeasonal,28,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W138,Warhammer 테마 프리미엄 보급 화물,2024-05-24,2024-06-07,14,NonSeasonal,28,Active,Paid,Collab,Purchase,Gacha,Low,arch_19
+World of Warships,W139,Warhammer 테마 영구 위장,2024-05-24,2024-06-07,14,NonSeasonal,28,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+World of Warships,W140,포스트 아포칼립스의 도래: 뜻밖의 할인 혜택!,2024-05-24,2024-05-31,7,NonSeasonal,28,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+World of Warships,W141,twitch 보상 (이벤트 패스 활성자 제한),2024-05-24,2024-06-07,14,NonSeasonal,28,Active,Paid,Promo,Stream,Currency,Low,arch_other
+World of Warships,W142,twitch 보상,2024-05-24,2024-06-07,14,NonSeasonal,28,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W143,난투2,2024-05-27,2024-06-03,7,NonSeasonal,29,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W144,유타 해변 작전,2024-05-30,2024-06-13,14,NonSeasonal,29,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+World of Warships,W145,세계 바다의 달,2024-06-01,2024-07-01,30,NonSeasonal,28,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W146,기나긴 박물관의 밤: 노르망디 상륙 거점,2024-06-01,2024-06-01,0,NonSeasonal,28,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W147,세계 바다의 달: 합동 전투 임무,2024-06-01,2024-07-01,30,NonSeasonal,28,Active,Free,Existing,Mission,Gacha,Mid,arch_other
+World of Warships,W148,난투3,2024-06-03,2024-06-10,7,NonSeasonal,28,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W149,용선 축제,2024-06-06,2024-06-20,14,NonSeasonal,26,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W150,보상 판매: 프리미엄 군함,2024-06-06,2024-06-20,14,NonSeasonal,26,Active,Free,Existing,Login,Currency,Low,arch_other
+World of Warships,W151,워쉽 프리미엄 계정 1일 선물,2024-06-10,2024-07-08,28,NonSeasonal,22,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W152,UPDATE 13.5,2024-06-13,2024-07-11,28,NonSeasonal,26,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W153,UPDATE 13.5 밸런스 패치,2024-06-13,2024-08-08,56,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+World of Warships,W154,여름 축제 이벤트 패스,2024-06-13,2024-07-11,28,NonSeasonal,26,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W155,다시 돌아온 HEROES OF MIGHT AND MAGIC3,2024-06-13,2024-06-20,7,NonSeasonal,26,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W156,twitch 보상,2024-06-13,2024-06-20,7,NonSeasonal,26,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W157,twitch 도전 임무,2024-06-13,2024-07-19,36,NonSeasonal,26,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W158,무기고 여름 축제 시작 - 금화 패키지,2024-06-13,2024-06-27,14,NonSeasonal,26,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W159,이번 주의 패키지,2024-06-13,2024-06-20,7,NonSeasonal,26,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W160,일일 패키지,2024-06-13,2024-07-11,28,NonSeasonal,26,Active,Free,Existing,Login,Currency,Low,arch_other
+World of Warships,W161,필리핀해 해전,2024-06-14,2024-07-02,18,NonSeasonal,24,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W162,대서양 무착륙 횡단,2024-06-14,2024-06-21,7,NonSeasonal,24,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W163,점검 보상,2024-06-15,2024-06-19,4,NonSeasonal,24,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W164,클랜 전투 시즌 26,2024-06-17,2024-08-05,49,NonSeasonal,28,Active,Free,Social,Mission,Currency,Mid,arch_23
+World of Warships,W165,난투,2024-06-17,2024-06-24,7,NonSeasonal,28,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W166,디데이 프리미엄 보급 화물,2024-06-17,2024-07-11,24,NonSeasonal,28,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W167,프리미엄 상점 패키지,2024-06-17,2024-07-11,24,NonSeasonal,28,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W168,혼이 깃든 게임 - 축구공 토큰,2024-06-18,2024-07-22,34,NonSeasonal,29,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W169,수중과 수상,2024-06-19,2024-06-25,6,NonSeasonal,30,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W170,삼국지 함장,2024-06-20,2024-07-11,21,NonSeasonal,32,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W171,함장 패키지,2024-06-20,2024-06-27,7,NonSeasonal,32,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W172,삼국지 보급 화물,2024-06-20,2024-07-11,21,NonSeasonal,32,Active,Paid,Collab,Purchase,Gacha,Low,arch_19
+World of Warships,W173,난투2,2024-06-24,2024-07-01,7,NonSeasonal,27,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W174,해군 괴수: Komissar (신규 군함),2024-06-26,2024-07-11,15,NonSeasonal,26,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W175,혼이 깃든 게임 이벤트,2024-06-27,2024-07-22,25,NonSeasonal,31,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W176,여름 토큰으로 구매 가능한 패키지 (할인),2024-06-27,2024-07-11,14,NonSeasonal,31,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W177,오마하 해변 강습,2024-06-27,2024-07-11,14,NonSeasonal,31,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W178,캐나다 연방 성립 기념일,2024-06-27,2024-07-03,6,NonSeasonal,31,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W179,캐나다 연방 성립 기념일,2024-06-27,2024-07-03,6,NonSeasonal,31,Active,Free,Existing,Mission,Lottery,Mid,arch_34
+World of Warships,W180,진정한 휴가,2024-06-29,2024-07-08,9,NonSeasonal,28,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W181,진정한 휴가,2024-06-29,2024-07-08,9,NonSeasonal,28,Active,Free,Existing,Mission,Lottery,Mid,arch_34
+World of Warships,W182,난투3,2024-07-01,2024-07-08,7,Seasonal,29,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W183,13.5 Discord 선물,2024-07-03,2024-07-04,1,Seasonal,26,Active,Free,Promo,OutGame,Currency,Low,arch_39
+World of Warships,W184,미국 독립기념일,2024-07-04,2024-07-25,21,Seasonal,31,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+World of Warships,W185,돌아온 뱃사람 뽀빠이!,2024-07-04,2024-07-25,21,Seasonal,31,Active,Free,Collab,Mission,Skin,Mid,arch_37
+World of Warships,W186,환영 보너스,2024-07-04,2024-07-11,7,Seasonal,31,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W187,미국 독립기념일 전투 임무 - 자유의 소리,2024-07-04,2024-07-25,21,Seasonal,31,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W188,미국 독립기념일,2024-07-04,2024-07-25,21,Seasonal,31,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W189,돌아온 뱃사람 뽀빠이!,2024-07-04,2024-07-25,21,Seasonal,31,Active,Free,Collab,Mission,Currency,Mid,arch_32
+World of Warships,W190,미국 독립기념일,2024-07-04,2024-07-25,21,Seasonal,31,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+World of Warships,W191,워쉽 프리미엄 계정 1일 선물,2024-07-08,2024-08-05,28,Seasonal,31,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W192,미국 독립기념일 전투 임무 - 모닥불과 화려한 불빛,2024-07-11,2024-07-25,14,Seasonal,39,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W193,UPDATE 13.6,2024-07-11,2024-08-08,28,Seasonal,39,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W194,프랑스 구축함 사전 운용 이벤트,2024-07-11,2024-09-05,56,Seasonal,39,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W195,프랑스 구축함 사전 이벤트 패스,2024-07-11,2024-08-08,28,Seasonal,39,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W196,모드 셔플 (신규 임시 전투 유형),2024-07-11,2024-08-08,28,Seasonal,39,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W197,랭크 전투: 시즌 18,2024-07-11,2024-09-05,56,Seasonal,39,Active,Free,Season,Mission,Currency,Mid,arch_27
+World of Warships,W198,스타트렉: 원격 전송 개시!,2024-07-11,2024-08-08,28,Seasonal,39,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W199,twitch 보상,2024-07-11,2024-07-18,7,Seasonal,39,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W200,무료 스타트렉 함장 및 항구,2024-07-11,2024-08-08,28,Seasonal,39,Login,Free,Collab,Login,Skin,Low,arch_other
+World of Warships,W201,스타트렉: 원격 전송 개시!,2024-07-11,2024-08-08,28,Seasonal,39,Active,Paid,Collab,Purchase,Gacha,Low,arch_19
+World of Warships,W202,7월의 크리스마스,2024-07-11,2024-08-08,28,Seasonal,39,Active,Free,Existing,OutGame,Currency,Mid,arch_29
+World of Warships,W203,환영 보너스,2024-07-11,2024-08-08,28,Seasonal,39,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W204,LE TERRIBLE 획득 패키지,2024-07-11,2024-09-05,56,Seasonal,39,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W205,트랜스포머,2024-07-11,2024-09-05,56,Seasonal,39,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+World of Warships,W206,지원 소모품 보급 난투,2024-07-15,2024-07-22,7,Seasonal,28,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W207,미국 독립기념일 전투 임무 - 언제나 충성,2024-07-18,2024-07-25,7,Seasonal,35,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W208,ARPEGGIO,2024-07-18,2024-08-15,28,Seasonal,35,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W209,ARPEGGIO 커뮤니티 이벤트,2024-07-18,2024-07-31,13,Seasonal,35,Active,Free,Collab,OutGame,Currency,Low,arch_other
+World of Warships,W210,ARPEGGIO 커뮤니티 이벤트,2024-07-18,2024-07-31,13,Seasonal,35,Active,Free,Collab,OutGame,Lottery,Low,arch_other
+World of Warships,W211,ARPEGGIO 할인,2024-07-18,2024-08-15,28,Seasonal,35,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W212,ARPEGGIO,2024-07-18,2024-08-15,28,Seasonal,35,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+World of Warships,W213,ARPEGGIO,2024-07-18,2024-08-15,28,Seasonal,35,Active,Free,Collab,OutGame,Gacha,Low,arch_other
+World of Warships,W214,벨기에 국경일,2024-07-20,2024-08-03,14,Seasonal,34,Active,Free,Existing,OutGame,Skin,Mid,arch_40
+World of Warships,W215,제 1차 세계대전: 개전 110주년,2024-07-27,2024-08-13,17,Seasonal,24,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W216,트랜스포머,2024-08-01,2024-08-15,14,Seasonal,26,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W217,벨기에 국경일,2024-08-01,2024-08-15,14,Seasonal,26,Active,Free,Existing,OutGame,Skin,Mid,arch_40
+World of Warships,W218,트랜스포머 할인 패키지,2024-08-01,2024-08-08,7,Seasonal,26,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W219,트랜스포머,2024-08-01,2024-08-15,14,Seasonal,26,Active,Paid,Collab,Purchase,Gacha,Low,arch_19
+World of Warships,W220,워쉽 프리미엄 계정 1일 선물,2024-08-06,2024-09-02,27,Seasonal,24,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W221,콜라보 기념 팬아트 위장 콘테스트,2024-08-07,2024-08-18,11,Seasonal,25,Active,Free,Promo,OutGame,Gacha,Low,arch_other
+World of Warships,W222,UPDATE 13.7,2024-08-08,2024-09-05,28,Seasonal,34,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W223,UPDATE 13.7 밸런스 패치,2024-08-08,2025-01-09,154,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+World of Warships,W224,ALMIRANTE QUENDO 건조,2024-08-08,2024-10-31,84,Seasonal,34,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+World of Warships,W225,다색 레가타 이벤트 패스,2024-08-08,2024-09-05,28,Seasonal,34,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W226,무기고 신규 함장 추가,2024-08-08,2024-09-05,28,Seasonal,34,Active,Free,NewContent,Login,Currency,Low,arch_other
+World of Warships,W227,twitch 보상,2024-08-08,2024-08-15,7,Seasonal,34,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W228,twitch 도전 임무,2024-08-08,2024-09-13,36,Seasonal,34,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W229,무료 보급 화물!,2024-08-08,2024-09-05,28,Seasonal,34,Active,Free,Existing,Login,Currency,Low,arch_other
+World of Warships,W230,개인 선창 전투 임무,2024-08-08,2024-10-03,56,Seasonal,34,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W231,ALMIRANTE QUENDO 건조 패키지,2024-08-08,2024-10-31,84,Seasonal,34,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W232,치시 축제,2024-08-10,2024-08-17,7,Seasonal,26,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W233,오본 축제,2024-08-11,2024-08-21,10,Seasonal,27,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W234,난투,2024-08-12,2024-08-19,7,Seasonal,28,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W235,콜라보 기념 팬아트 위장 콘테스트,2024-08-14,2024-09-05,22,Seasonal,28,Active,Free,Promo,OutGame,Goods,Low,arch_other
+World of Warships,W236,돌아온 불침묘 샘!,2024-08-15,2024-09-05,21,Seasonal,31,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W237,첫번째 주 이자요이 노노미 함장,2024-08-15,2024-08-22,7,Seasonal,31,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W238,첫번째 주 이자요이 노노미 함장,2024-08-15,2024-08-22,7,Seasonal,31,Active,Paid,Collab,Purchase,Gacha,Low,arch_19
+World of Warships,W239,블루 아카이브 행운 시험,2024-08-19,2024-09-08,20,Seasonal,24,Active,Paid,Collab,Purchase,Lottery,Low,arch_other
+World of Warships,W240,게임 축제,2024-08-19,2024-08-29,10,Seasonal,24,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W241,난투2,2024-08-19,2024-08-26,7,Seasonal,24,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W242,두번째 주 오쿠소라 아야네 함장,2024-08-22,2024-08-29,7,Seasonal,25,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W243,두번째 주 오쿠소라 아야네 함장,2024-08-22,2024-08-29,7,Seasonal,25,Active,Paid,Collab,Purchase,Gacha,Low,arch_19
+World of Warships,W244,세계 개의 날,2024-08-22,2024-08-29,7,Seasonal,25,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W245,역사의 미궁 속으로 웹 캠패인,2024-08-23,2024-09-20,28,Seasonal,26,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W246,역사의 미궁 속으로 - 브리타니아 토큰,2024-08-23,2024-09-20,28,Seasonal,26,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W247,역사의 미궁 속으로 - 브리타니아 토큰,2024-08-23,2024-09-20,28,Seasonal,26,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W248,난투3,2024-08-26,2024-09-02,7,Seasonal,27,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W249,순위표: 페킹 작전,2024-08-29,2024-09-05,7,Seasonal,32,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W250,세번째 주 타카나시 호시노 함장,2024-08-29,2024-09-05,7,Seasonal,32,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W251,세번째 주 타카나시 호시노 함장,2024-08-29,2024-09-05,7,Seasonal,32,Active,Paid,Collab,Purchase,Gacha,Low,arch_19
+World of Warships,W252,슬로바키아 국민 봉기,2024-08-29,2024-11-19,82,Seasonal,32,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W253,손오공의 귀환: 서유기 프리미엄 보급 화물,2024-08-29,2024-09-05,7,Seasonal,32,Active,Paid,Collab,Purchase,Gacha,Low,arch_19
+World of Warships,W254,제 2차 세계대전 개전: 85주년 패키지,2024-08-29,2024-09-05,7,Seasonal,32,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W255,King of the sea xvii 본선,2024-09-01,2024-09-01,0,NonSeasonal,29,Active,Free,Esports,Stream,Currency,Low,arch_other
+World of Warships,W256,워쉽 프리미엄 계정 1일 선물,2024-09-02,2024-09-30,28,NonSeasonal,29,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W257,커뮤니티 토큰 선물,2024-09-03,2024-10-01,28,NonSeasonal,28,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W258,UPDATE 13.8,2024-09-05,2024-10-03,28,NonSeasonal,46,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W259,13.8 업데이트 9주년 축제 보상,2024-09-05,2024-10-03,28,NonSeasonal,46,Active,Free,Anniversary,Mission,Currency,Low,arch_other
+World of Warships,W260,13.8 업데이트 9주년 축제 토큰,2024-09-05,2024-10-03,28,NonSeasonal,46,Active,Free,Anniversary,Mission,Currency,Low,arch_other
+World of Warships,W261,아쿠아티카 축제,2024-09-05,2024-10-03,28,NonSeasonal,46,Login,Free,Anniversary,Login,Currency,Low,arch_25
+World of Warships,W262,9주년 이벤트 패스,2024-09-05,2024-10-03,28,NonSeasonal,46,Active,Paid,Anniversary,Purchase,Pass,Low,arch_other
+World of Warships,W263,랭크 전투: 시즌 19,2024-09-05,2024-10-31,56,NonSeasonal,46,Active,Free,Season,Mission,Currency,Mid,arch_27
+World of Warships,W264,무기고 신규 군함 X SVEA 추가,2024-09-05,2024-10-02,27,NonSeasonal,46,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W265,닌자 거북이 콜라보,2024-09-05,2024-10-10,35,NonSeasonal,46,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W266,twitch 도전 임무,2024-09-05,2024-10-11,36,NonSeasonal,46,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W267,사전 운용 범아메리카 전함,2024-09-05,2024-10-31,56,NonSeasonal,46,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W268,사전 운용 범아메리카 전함,2024-09-05,2024-10-31,56,NonSeasonal,46,Active,Paid,CashShop,Mission,Skin,High,arch_other
+World of Warships,W269,월드 오브 워십과 함께하는 나의 이야기,2024-09-05,2024-09-15,10,NonSeasonal,46,Active,Free,Anniversary,OutGame,Gacha,Low,arch_other
+World of Warships,W270,9주년 선물,2024-09-05,2024-10-03,28,NonSeasonal,46,Login,Free,Anniversary,Login,Currency,Low,arch_25
+World of Warships,W271,커뮤니티 토큰 선물,2024-09-05,2024-10-02,27,NonSeasonal,46,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W272,아쿠아티카 축제 패키지,2024-09-05,2024-10-03,28,NonSeasonal,46,Active,Paid,Anniversary,Purchase,Currency,Low,arch_other
+World of Warships,W273,아쿠아티카 축제,2024-09-05,2024-10-03,28,NonSeasonal,46,Login,Free,Anniversary,Login,Gacha,Low,arch_other
+World of Warships,W274,VICTORIA 패키지,2024-09-05,2024-10-03,28,NonSeasonal,46,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W275,닌자 거북이 콜라보,2024-09-05,2024-10-10,35,NonSeasonal,46,Active,Paid,Collab,Purchase,Gacha,Low,arch_19
+World of Warships,W276,신규 플레이어의 야심찬 출항을 위한 보너스,2024-09-09,2024-10-02,23,NonSeasonal,32,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W277,난투1,2024-09-09,2024-09-17,8,NonSeasonal,32,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W278,클랜 전투 시즌 27,2024-09-11,2024-10-28,47,NonSeasonal,33,Active,Free,Social,Mission,Currency,Mid,arch_23
+World of Warships,W279,혁신의 길 이벤트: 돌아온 Scarlet Thunder,2024-09-12,2024-10-03,21,NonSeasonal,35,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W280,혁신의 길 이벤트: 돌아온 Scarlet Thunder,2024-09-12,2024-10-03,21,NonSeasonal,35,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+World of Warships,W281,북극 탐험,2024-09-13,2024-12-01,79,NonSeasonal,38,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W282,커뮤니티 토큰 선물,2024-09-13,2024-10-02,19,NonSeasonal,38,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W283,언덕의 제왕: 순위표 등반!,2024-09-13,2024-10-01,18,NonSeasonal,38,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W284,보름달에 건배 보너스 코드,2024-09-15,2024-10-08,23,NonSeasonal,38,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W285,기본 경험치 경쟁,2024-09-16,2024-10-07,21,NonSeasonal,38,Active,Paid,Existing,Mission,Currency,Mid,arch_other
+World of Warships,W286,twitch 보상,2024-09-17,2024-09-22,5,NonSeasonal,41,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W287,커뮤니티 토큰 선물,2024-09-17,2024-10-02,15,NonSeasonal,41,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W288,난투2,2024-09-17,2024-09-24,7,NonSeasonal,41,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W289,무기고 추석 이벤트,2024-09-19,2024-10-03,14,NonSeasonal,41,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W290,커뮤니티 토큰 선물,2024-09-23,2024-10-02,9,NonSeasonal,38,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W291,워쉽 프리미엄 계정 1일 선물,2024-09-30,2024-10-28,28,NonSeasonal,38,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W292,난투3,2024-10-01,2024-10-08,7,NonSeasonal,38,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W293,UPDATE 13.9,2024-10-03,2024-10-31,28,NonSeasonal,39,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W294,모드 셔플,2024-10-03,2024-10-31,28,NonSeasonal,39,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W295,"이벤트 패스: 단결, 정의, 자유",2024-10-03,2024-10-31,28,NonSeasonal,39,Active,Paid,Anniversary,Purchase,Pass,Low,arch_other
+World of Warships,W296,무기고 신규 프랑스 순양함 X BRENNUS,2024-10-03,2024-10-31,28,NonSeasonal,39,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W297,독일 재통일의 날,2024-10-03,2024-10-31,28,NonSeasonal,39,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W298,twitch 보상,2024-10-03,2024-10-10,7,NonSeasonal,39,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W299,twitch 도전 임무,2024-10-03,2024-11-08,36,NonSeasonal,39,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W300,독일 재통일의 날 패키지,2024-10-03,2024-10-24,21,NonSeasonal,39,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W301,이곳에서 보급 화물을 수령하십시오!,2024-10-03,2024-10-31,28,NonSeasonal,39,Active,Free,Existing,OutGame,Lottery,Low,arch_33
+World of Warships,W302,난투1,2024-10-07,2024-10-14,7,NonSeasonal,27,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W303,캐나다 추수 감사절,2024-10-09,2024-10-16,7,NonSeasonal,25,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W304,레이테만 전투,2024-10-10,2024-11-28,49,NonSeasonal,29,Active,Free,Existing,Mission,Gacha,Mid,arch_other
+World of Warships,W305,스페인 국경일,2024-10-10,2024-10-24,14,NonSeasonal,29,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W306,Enterprise 및 Tennessee,2024-10-10,2024-10-17,7,NonSeasonal,29,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W307,함장 클럽 1주년 이벤트,2024-10-10,2024-10-30,20,NonSeasonal,29,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W308,난투2,2024-10-14,2024-10-21,7,NonSeasonal,26,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W309,붉은 10월,2024-10-17,2024-10-30,13,NonSeasonal,28,Active,Free,Existing,Mission,Gacha,Mid,arch_other
+World of Warships,W310,붉은 10월 순위표 이벤트,2024-10-17,2024-10-24,7,NonSeasonal,28,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W311,레이테만 전투 보급 화물,2024-10-17,2024-11-28,42,NonSeasonal,28,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W312,신규 순양함 Wichita 무료 시험,2024-10-17,2024-10-28,11,NonSeasonal,28,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W313,트라팔가르 해전의 날,2024-10-20,2024-10-25,5,NonSeasonal,28,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W314,난투3,2024-10-21,2024-10-28,7,NonSeasonal,29,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W315,오스트리아 국경일,2024-10-24,2024-11-07,14,NonSeasonal,32,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W316,이벤트: 1918-10-28,2024-10-24,2024-11-07,14,NonSeasonal,32,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W317,튀르키예 공화국의 날,2024-10-24,2024-11-07,14,NonSeasonal,32,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W318,일렁이는 불꽃 프리미엄 보급 화물,2024-10-24,2024-11-07,14,NonSeasonal,32,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W319,워쉽 프리미엄 계정 1일 선물,2024-10-28,2024-11-25,28,NonSeasonal,29,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W320,할로윈 공포: 코드 활성화,2024-10-29,2024-10-31,2,NonSeasonal,26,Active,Free,Existing,OutGame,Gacha,Low,arch_other
+World of Warships,W321,UPDATE 13.10,2024-10-31,2024-11-28,28,NonSeasonal,40,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W322,"스타트렉 작전, 첫번째",2024-10-31,2024-12-12,42,NonSeasonal,40,Active,Free,Collab,Mission,Skin,Mid,arch_37
+World of Warships,W323,블랙 프라이데이 이벤트 패스,2024-10-31,2024-11-28,28,NonSeasonal,40,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W324,랭크 전투,2024-10-31,2025-01-09,70,NonSeasonal,40,Active,Free,Season,Mission,Currency,Mid,arch_27
+World of Warships,W325,무기고 신규 군함 추가,2024-10-31,2024-11-28,28,NonSeasonal,40,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W326,twitch 보상,2024-10-31,2024-11-07,7,NonSeasonal,40,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W327,참전 용사를 위하여 임무,2024-10-31,2024-11-14,14,NonSeasonal,40,Active,Free,Existing,Mission,Currency,Low,arch_21
+World of Warships,W328,블랙 프라이데이 행운 추첨,2024-10-31,2024-11-15,15,NonSeasonal,40,Active,Free,Existing,OutGame,Lottery,Mid,arch_other
+World of Warships,W329,스타트렉 패키지,2024-10-31,2024-12-12,42,NonSeasonal,40,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W330,무료 스타트렉 함장,2024-10-31,2024-12-12,42,NonSeasonal,40,Active,Free,Collab,Mission,Currency,Mid,arch_32
+World of Warships,W331,스타트렉 패키지,2024-10-31,2024-12-12,42,NonSeasonal,40,Active,Paid,Collab,Purchase,Gacha,Low,arch_19
+World of Warships,W332,올리바 전투에 참여,2024-10-31,2024-11-28,28,NonSeasonal,40,Active,Free,Existing,OutGame,Currency,Mid,arch_29
+World of Warships,W333,블랙 프라이데이 할인,2024-10-31,2024-11-28,28,NonSeasonal,40,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W334,전우와 함께 이벤트 참여,2024-10-31,2024-11-28,28,NonSeasonal,40,Active,Free,Social,Mission,Currency,Low,arch_other
+World of Warships,W335,랭크 전투: 시즌 20,2024-10-31,2025-01-09,70,NonSeasonal,40,Active,Free,Season,Mission,Currency,Mid,arch_27
+World of Warships,W336,무료 보급 화물 및 추첨 이벤트,2024-10-31,2024-11-28,28,NonSeasonal,40,Active,Free,Existing,OutGame,Lottery,Low,arch_33
+World of Warships,W337,twitch 도전 임무,2024-11-01,2024-12-06,35,NonSeasonal,30,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W338,블랙 프라이데이 경매: Smolensk B,2024-11-01,2024-11-05,4,NonSeasonal,30,Active,Free,NewContent,Login,Currency,Low,arch_other
+World of Warships,W339,난투1,2024-11-04,2024-11-12,8,NonSeasonal,31,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W340,순위표 이벤트,2024-11-07,2024-11-14,7,NonSeasonal,37,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W341,재향 군인의 날 임무,2024-11-07,2024-11-28,21,NonSeasonal,37,Active,Free,Existing,Mission,Currency,Low,arch_21
+World of Warships,W342,King of the sea 전석 매진 합동 전투 임무,2024-11-07,2024-11-14,7,NonSeasonal,37,Active,Free,Esports,Mission,Skin,Mid,arch_other
+World of Warships,W343,싱글 데이: 나만을 위한 시간,2024-11-07,2024-11-21,14,NonSeasonal,37,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W344,케테시즘을 확보하라,2024-11-07,2024-11-14,7,NonSeasonal,37,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W345,케테시즘을 확보하라,2024-11-07,2024-11-14,7,NonSeasonal,37,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W346,왕관과 삼지창 모험 이벤트,2024-11-07,2024-11-28,21,NonSeasonal,37,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W347,싱글즈 데이 코드 활성화,2024-11-10,2024-11-17,7,NonSeasonal,32,Active,Free,Existing,OutGame,Gacha,Low,arch_other
+World of Warships,W348,난투2,2024-11-11,2024-11-19,8,NonSeasonal,33,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W349,블랙 프라이데이 보너스 코드,2024-11-12,2024-11-30,18,NonSeasonal,34,Active,Free,Existing,OutGame,Gacha,Mid,arch_other
+World of Warships,W350,2024 러이끄라통 축제,2024-11-14,2024-11-26,12,NonSeasonal,40,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W351,"스타트렉 작전, 두번째",2024-11-14,2024-12-12,28,NonSeasonal,40,Active,Free,Collab,Mission,Skin,Mid,arch_37
+World of Warships,W352,cooler master 보상,2024-11-14,2024-12-12,28,NonSeasonal,40,Active,Free,Existing,Mission,Goods,High,arch_other
+World of Warships,W353,cooler master 보상,2024-11-14,2024-12-12,28,NonSeasonal,40,Login,Free,Existing,OutGame,Currency,Low,arch_other
+World of Warships,W354,Loy Krathong 축제 코드 활성화,2024-11-14,2024-11-25,11,NonSeasonal,40,Active,Free,Existing,Mission,Currency,Low,arch_21
+World of Warships,W355,2024 러이끄라통 축제,2024-11-14,2024-11-26,12,NonSeasonal,40,Active,Free,Existing,Mission,Gacha,Mid,arch_other
+World of Warships,W356,무기고: La Pampa를 향한 여정,2024-11-14,2024-11-28,14,NonSeasonal,40,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W357,난투3,2024-11-18,2024-11-26,8,NonSeasonal,34,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W358,scharnhorst 43 신규 무기고 추가,2024-11-22,2024-11-28,6,NonSeasonal,32,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+World of Warships,W359,난투4,2024-11-25,2024-11-28,3,NonSeasonal,34,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W360,워쉽 프리미엄 계정 1일 선물,2024-11-25,2025-01-06,42,NonSeasonal,34,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W361,twitch 보상,2024-11-28,2024-12-05,7,NonSeasonal,40,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W362,twitch 도전 임무,2024-11-28,2025-01-17,50,NonSeasonal,40,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W363,"스타트렉 작전, 세번째",2024-11-28,2024-12-12,14,NonSeasonal,40,Active,Free,Collab,Mission,Currency,Mid,arch_32
+World of Warships,W364,무기고: 강철로 구매 가능한 신규 군함,2024-11-28,2025-01-30,63,NonSeasonal,40,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W365,무기고: 강철로 구매 가능한 신규 군함 위장,2024-11-28,2025-01-30,63,NonSeasonal,40,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+World of Warships,W366,UPDATE 13.11,2024-11-28,2025-01-09,42,NonSeasonal,40,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W367,이벤트 패스: 동쪽,2024-11-28,2024-12-19,21,NonSeasonal,40,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W368,"함부르크 개인 선창: Niord, Kalmar",2024-11-28,2025-02-06,70,NonSeasonal,40,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W369,"무기고, 강철 의지",2024-11-28,2025-01-30,63,NonSeasonal,40,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W370,산타클로스 보급 화물,2024-11-28,2025-01-30,63,NonSeasonal,40,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W371,크리스마스 토큰,2024-11-28,2025-01-30,63,NonSeasonal,40,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+World of Warships,W372,신년 선물: 군함 수령!,2024-12-01,2025-01-09,39,NonSeasonal,28,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W373,연말연시 달력,2024-12-01,2024-12-31,30,NonSeasonal,28,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W374,축제 보상,2024-12-01,2025-01-09,39,NonSeasonal,28,Active,Free,Existing,Mission,Currency,Low,arch_21
+World of Warships,W375,난투1,2024-12-02,2024-12-09,7,NonSeasonal,28,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W376,클랜 전투 시즌 28,2024-12-04,2025-02-03,61,NonSeasonal,29,Active,Free,Social,Mission,Currency,Mid,arch_23
+World of Warships,W377,Charlie Kilo 등장!,2024-12-06,2024-12-13,7,NonSeasonal,29,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W378,난투2,2024-12-09,2024-12-16,7,NonSeasonal,29,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W379,클랜 원정,2024-12-12,2025-01-09,28,NonSeasonal,30,Active,Free,Social,Mission,Currency,Mid,arch_23
+World of Warships,W380,돌아온 비대칭 전투,2024-12-12,2025-02-06,56,NonSeasonal,30,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W381,연말연시 특별 방송,2024-12-13,2024-12-13,0,NonSeasonal,23,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W382,난투3,2024-12-16,2024-12-23,7,NonSeasonal,22,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W383,연말연시 전투 임무,2024-12-18,2024-12-31,13,NonSeasonal,22,Active,Free,Existing,OutGame,Gacha,High,arch_other
+World of Warships,W384,이벤트 패스: 서쪽,2024-12-19,2025-01-09,21,NonSeasonal,23,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W385,워쉽 프리미엄 계정 할인,2024-12-20,2024-12-27,7,NonSeasonal,24,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W386,연속 패키지,2024-12-20,2024-12-27,7,NonSeasonal,24,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W387,난투4,2024-12-23,2024-12-30,7,NonSeasonal,26,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W388,할인 및 보너스,2024-12-23,2024-12-28,5,NonSeasonal,26,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W389,월드 오브 워쉽 겨울 원더랜드 보너스 코드,2024-12-24,2025-01-05,12,NonSeasonal,26,Active,Free,Existing,OutGame,Gacha,Low,arch_other
+World of Warships,W390,2024년 마지막 혜택,2024-12-28,2025-01-04,7,NonSeasonal,26,Active,Free,Existing,Mission,Currency,Low,arch_21
+World of Warships,W391,2024년 마지막 혜택,2024-12-28,2025-01-01,4,NonSeasonal,26,Active,Free,Existing,Mission,Currency,Low,arch_21
+World of Warships,W392,난투5,2024-12-30,2025-01-06,0,NonSeasonal,25,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W393,신년 해군 축제: 보너스 코드,2025-01-02,2025-01-15,13,Seasonal,22,Active,Free,Existing,Mission,Gacha,Mid,arch_other
+World of Warships,W394,워쉽 프리미엄 계정 1일 선물,2025-01-06,2025-02-03,28,Seasonal,21,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W395,UPDATE 14.0,2025-01-09,2025-02-06,28,Seasonal,27,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W396,UPDATE 14.0 밸런스 패치,2025-01-09,2025-03-06,56,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+World of Warships,W397,네덜란드 순양함 사전 운용이벤트,2025-01-09,2025-03-06,56,Seasonal,27,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W398,네덜란드 순양함 이벤트 패스,2025-01-09,2025-02-06,28,Seasonal,27,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W399,기함 포함 작전,2025-01-09,2025-02-06,28,Seasonal,27,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W400,TheRussianBadger 패키지,2025-01-09,2025-12-31,356,Seasonal,27,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W401,네덜란드 황금기 무작위 패키지,2025-01-09,2025-03-06,56,Seasonal,27,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W402,테마 전투 임무 세트,2025-01-09,2025-02-06,28,Seasonal,27,Active,Free,NewContent,Mission,Skin,Mid,arch_20
+World of Warships,W403,난투1,2025-01-13,2025-01-20,7,Seasonal,21,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W404,군함은 새해를 싣고,2025-01-15,2025-01-23,8,Seasonal,22,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W405,BJORN의 모험담,2025-01-16,2025-02-06,21,Seasonal,23,Active,Free,NewContent,Mission,Skin,Mid,arch_20
+World of Warships,W406,BJORN의 모험담 테마 패키지,2025-01-16,2025-02-06,21,Seasonal,23,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W407,난투2,2025-01-20,2025-01-27,7,Seasonal,23,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W408,도거 뱅크 해전,2025-01-23,2025-02-06,14,Seasonal,23,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W409,전투 2회 승리 시 프리미엄 워쉽,2025-01-24,2025-02-06,13,Seasonal,23,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W410,난투3,2025-01-27,2025-02-03,7,Seasonal,24,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W411,새해 복 많이 받으십시오,2025-01-29,2025-02-05,7,Seasonal,24,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W412,Somers를 찾아서: 순위표,2025-01-30,2025-02-10,11,Seasonal,25,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W413,소원의 부두,2025-01-31,2025-03-06,34,Seasonal,21,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W414,워쉽 프리미엄 계정 1일 선물,2025-02-03,2025-03-03,28,Seasonal,22,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W415,UPDATE 14.1,2025-02-06,2025-03-06,28,Seasonal,26,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W416,설날 이벤트 패스,2025-02-06,2025-03-06,28,Seasonal,26,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W417,명나라의 과거를 찾아서 모험 기념 이벤트,2025-02-06,2025-04-03,56,Seasonal,26,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+World of Warships,W418,명나라의 과거를 찾아서 모험 기념 이벤트,2025-02-06,2025-04-03,56,Seasonal,26,Active,Free,NewContent,Mission,Skin,Mid,arch_20
+World of Warships,W419,twitch 보상,2025-02-06,2025-02-13,7,Seasonal,26,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W420,twitch 도전 임무,2025-02-06,2025-03-14,36,Seasonal,26,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W421,특별 모집 운동 이벤트,2025-02-06,2025-04-03,56,Seasonal,26,Active,Free,Social,Mission,Currency,Mid,arch_23
+World of Warships,W422,영광의 순간 보급화물,2025-02-06,2025-03-06,28,Seasonal,26,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W423,난투1,2025-02-10,2025-02-17,7,Seasonal,17,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W424,발렌타인데이 깃발,2025-02-13,2025-02-27,14,Seasonal,18,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W425,bismarck 진수일 전투 임무,2025-02-13,2025-02-27,14,Seasonal,18,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W426,발렌타인데이 보너스 코드,2025-02-14,2025-02-28,14,Seasonal,18,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W427,난투2,2025-02-17,2025-02-24,7,Seasonal,19,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W428,자바해 해전: 83주년,2025-02-20,2025-03-06,14,Seasonal,19,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W429,discord 선물,2025-02-21,2025-03-03,10,Seasonal,21,Active,Free,Promo,OutGame,Currency,Low,arch_39
+World of Warships,W430,X HULL 무기고 추가,2025-02-21,2025-03-06,13,Seasonal,21,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+World of Warships,W431,난투3,2025-02-24,2025-03-03,7,Seasonal,22,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W432,워쉽 프리미엄 계정 1일 선물,2025-03-03,2025-03-31,28,NonSeasonal,19,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W433,UPDATE 14.2,2025-03-06,2025-04-03,28,NonSeasonal,21,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W434,UPDATE 14.2 밸런스 패치,2025-03-06,2025-04-03,28,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+World of Warships,W435,소련 해군 이벤트 패스,2025-03-06,2025-04-03,28,NonSeasonal,21,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W436,돌아온 기함 포함 작전,2025-03-06,2025-08-07,154,NonSeasonal,21,Login,Free,NewContent,Login,None,Mid,arch_38
+World of Warships,W437,소련 잠수함 사전 운용,2025-03-06,2025-05-15,70,NonSeasonal,21,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W438,블랙 프라이데이 보너스 코드,2025-03-06,2025-05-15,70,NonSeasonal,21,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W439,Holi: 1탄,2025-03-13,2025-05-15,63,NonSeasonal,17,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W440,Monmouth 패키지,2025-03-13,2025-04-03,21,NonSeasonal,17,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W441,현상금 사냥: 규칙 및 형식,2025-03-13,2025-03-27,14,NonSeasonal,17,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W442,현상금 사냥: 규칙 및 형식 보너스,2025-03-13,2025-03-27,14,NonSeasonal,17,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W443,EAT,2025-03-17,2025-03-31,14,NonSeasonal,18,Active,Free,Existing,Mission,Lottery,Mid,arch_34
+World of Warships,W444,PLAY,2025-03-17,2025-03-31,14,NonSeasonal,18,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W445,Holi: 2탄,2025-03-20,2025-05-15,56,NonSeasonal,24,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W446,경품 행사,2025-03-20,2025-05-15,56,NonSeasonal,24,Active,Free,Existing,Mission,Gacha,High,arch_other
+World of Warships,W447,Ferrante Gonzaga 이탈리아 신규 군함,2025-03-20,2025-04-03,14,NonSeasonal,24,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W448,Ferrante Gonzaga 이탈리아 신규 군함 보너스,2025-03-20,2025-04-03,14,NonSeasonal,24,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W449,8단계 Siliwangi 무료 대여,2025-03-20,2025-03-27,7,NonSeasonal,24,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W450,8단계 Siliwangi 특별 전투 임무,2025-03-20,2025-04-03,14,NonSeasonal,24,Active,Paid,CashShop,Mission,Currency,Mid,arch_other
+World of Warships,W451,14.2 Discord 선물,2025-03-21,2025-03-31,10,NonSeasonal,26,Active,Free,Promo,OutGame,Currency,Mid,arch_24
+World of Warships,W452,EPT 우승자 투표,2025-03-21,2025-04-11,21,NonSeasonal,26,Active,Free,Existing,OutGame,Currency,Mid,arch_29
+World of Warships,W453,별빛의 기운이 깃든 패키지 등장!,2025-03-27,2025-04-10,14,NonSeasonal,27,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W454,워쉽 프리미엄 계정 1일 선물,2025-03-31,2025-05-12,42,NonSeasonal,25,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W455,UPDATE 14.3,2025-04-03,2025-05-15,42,NonSeasonal,28,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W456,UPDATE 14.3 밸런스 패치,2025-04-03,2025-05-15,42,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+World of Warships,W457,Blucher 개인 선창 이벤트,2025-04-03,2025-06-12,70,NonSeasonal,28,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+World of Warships,W458,텐고 작전 : 이벤트 패스 1,2025-04-03,2025-04-24,21,NonSeasonal,28,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W459,신규 군함 무기고 추가,2025-04-03,2025-05-15,42,NonSeasonal,28,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W460,twitch 도전 임무,2025-04-03,2025-05-24,51,NonSeasonal,28,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W461,무기고 신상품: 태평양의 주역,2025-04-03,2025-04-17,14,NonSeasonal,28,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W462,모집소: 봄맞이 대소동 캠패인,2025-04-03,2025-07-10,98,NonSeasonal,28,Active,Free,Social,OutGame,Gacha,Low,arch_other
+World of Warships,W463,steam chan과 함께 불의 비 1탄,2025-04-04,2025-04-07,3,NonSeasonal,21,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W464,steam chan과 함께 불의 비 보너스 임무,2025-04-04,2025-04-28,24,NonSeasonal,21,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W465,난투1,2025-04-07,2025-04-14,7,NonSeasonal,22,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W466,discord 증표 사냥,2025-04-09,2025-05-15,36,NonSeasonal,22,Active,Free,Promo,OutGame,Gacha,High,arch_other
+World of Warships,W467,황금의 달 무기고 이벤트,2025-04-10,2025-05-15,35,NonSeasonal,25,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W468,twitch 보상,2025-04-10,2025-04-18,8,NonSeasonal,25,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W469,황금의 달 무기고 패키지,2025-04-10,2025-05-15,35,NonSeasonal,25,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W470,steam chan과 함께 불의 비 2탄,2025-04-11,2025-04-14,3,NonSeasonal,25,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W471,난투2,2025-04-14,2025-04-21,7,NonSeasonal,25,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W472,황금의 달 보너스 코드,2025-04-15,2025-04-29,14,NonSeasonal,24,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W473,불멸의 전선 : 신규 전투 유형,2025-04-17,2025-05-15,28,NonSeasonal,26,Active,Free,NewContent,Login,None,Low,arch_other
+World of Warships,W474,트랜스포머 재집결!,2025-04-17,2025-05-15,28,NonSeasonal,26,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W475,steam chan과 함께 불의 비 3탄,2025-04-18,2025-04-21,3,NonSeasonal,27,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W476,봄맞이 대청소,2025-04-18,2025-04-25,7,NonSeasonal,27,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W477,난투3,2025-04-21,2025-04-28,7,NonSeasonal,27,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W478,무기고: 보급 화물 대량 입고!,2025-04-22,2025-05-01,9,NonSeasonal,26,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W479,황금의 달 : 이벤트 패스 2,2025-04-24,2025-05-15,21,NonSeasonal,27,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W480,steam chan과 함께 불의 비 4탄,2025-04-25,2025-04-28,3,NonSeasonal,28,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W481,앤잭 데이,2025-04-25,2025-04-29,4,NonSeasonal,28,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W482,황금빛 파도를 타고 온 달마 보급 화물,2025-04-26,2025-05-11,15,NonSeasonal,31,Active,Free,Existing,Mission,Lottery,Mid,arch_34
+World of Warships,W483,골든 위크 보너스 코드,2025-04-26,2025-05-12,16,NonSeasonal,31,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W484,2025 골든 위크,2025-04-26,2025-05-12,16,NonSeasonal,31,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W485,2025 골든 위크 추첨 이벤트,2025-04-26,2025-05-12,16,NonSeasonal,31,Active,Free,Existing,Mission,Lottery,Mid,arch_34
+World of Warships,W486,난투4,2025-04-28,2025-05-05,7,NonSeasonal,32,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W487,근로자의 날 보너스 코드 이벤트,2025-05-01,2025-05-05,4,NonSeasonal,29,Active,Free,Existing,OutGame,Currency,Mid,arch_29
+World of Warships,W488,근로자의 날 보너스 코드 이벤트 무작위 추첨,2025-05-01,2025-05-05,4,NonSeasonal,29,Active,Paid,CashShop,OutGame,Lottery,Mid,arch_other
+World of Warships,W489,난투5,2025-05-05,2025-05-12,7,NonSeasonal,29,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W490,나르비크부터 덩케르크까지 모험 이벤트,2025-05-08,2025-06-19,42,NonSeasonal,28,Login,Free,NewContent,Login,Gacha,Low,arch_other
+World of Warships,W491,eskimo 제독 패키지,2025-05-08,2025-05-22,14,NonSeasonal,28,Active,Paid,CashShop,OutGame,Currency,Mid,arch_other
+World of Warships,W492,discord 참가자 전원에게 선물,2025-05-09,2025-05-21,12,NonSeasonal,29,Active,Free,Promo,OutGame,Currency,Mid,arch_24
+World of Warships,W493,워쉽 프리미엄 계정 1일 선물,2025-05-12,2025-06-09,28,NonSeasonal,29,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W494,UPDATE 14.4,2025-05-15,2025-06-12,28,NonSeasonal,42,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W495,UPDATE 14.4 밸런스 패치,2025-05-15,2025-08-07,84,NonSeasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+World of Warships,W496,생사의 기로 신규 전투 유형,2025-05-15,2025-06-12,28,NonSeasonal,42,Active,Free,NewContent,Login,None,Low,arch_other
+World of Warships,W497,다이나모 작전 이벤트 패스,2025-05-15,2025-06-12,28,NonSeasonal,42,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W498,벽람항로: 일곱 번째 물결,2025-05-15,2025-07-03,49,NonSeasonal,42,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W499,랭크 전투 23번째 시즌,2025-05-15,2025-07-10,56,NonSeasonal,42,Active,Free,Season,Mission,Currency,Mid,arch_27
+World of Warships,W500,twitch 보상,2025-05-15,2025-05-22,7,NonSeasonal,42,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W501,twitch 도전 임무,2025-05-15,2025-06-20,36,NonSeasonal,42,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W502,벽람항로 이벤트 1,2025-05-15,2025-06-03,19,NonSeasonal,42,Active,Paid,Collab,OutGame,Lottery,Low,arch_other
+World of Warships,W503,벽람항로 보너스 코드,2025-05-15,2025-06-09,25,NonSeasonal,42,Active,Free,Existing,OutGame,Currency,Mid,arch_29
+World of Warships,W504,벽람항로 일곱 번째 물결 슈퍼 보너스 추첨 이벤트,2025-05-15,2025-06-01,17,NonSeasonal,42,Active,Free,Collab,OutGame,Currency,Mid,arch_other
+World of Warships,W505,벽람항로 AL Montpelier 80% 할인,2025-05-15,2025-05-22,7,NonSeasonal,42,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W506,벽람항로: 일곱 번째 물결,2025-05-15,2025-07-03,49,NonSeasonal,42,Active,Paid,Collab,Purchase,Gacha,Low,arch_19
+World of Warships,W507,벽람항로: 무료 콘텐츠,2025-05-15,2025-07-03,49,NonSeasonal,42,Active,Free,Collab,Mission,Skin,Mid,arch_37
+World of Warships,W508,벽람항로: AL Avrora,2025-05-15,2025-07-03,49,NonSeasonal,42,Active,Free,Collab,OutGame,Currency,Mid,arch_other
+World of Warships,W509,테마 영구 위장 확보,2025-05-15,2025-07-10,56,NonSeasonal,42,Active,Free,Existing,OutGame,Skin,Mid,arch_40
+World of Warships,W510,기함 포함 작전: 첩보 토큰,2025-05-15,2025-06-12,28,NonSeasonal,42,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+World of Warships,W511,실험 군함 석탄 포화,2025-05-15,2025-06-12,28,NonSeasonal,42,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W512,무료 보급 화물 및 추첨 이벤트,2025-05-15,2025-06-12,28,NonSeasonal,42,Active,Free,Existing,Mission,Lottery,Mid,arch_34
+World of Warships,W513,벽람항로 이벤트 2,2025-05-16,2025-06-03,18,NonSeasonal,31,Active,Paid,Collab,OutGame,Lottery,Low,arch_other
+World of Warships,W514,발할라를 위한 여정,2025-05-16,2025-09-04,111,NonSeasonal,31,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+World of Warships,W515,난투 1,2025-05-19,2025-05-26,7,NonSeasonal,32,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W516,위대한 해전,2025-05-21,2025-06-11,21,NonSeasonal,33,Active,Free,Existing,OutGame,Currency,Mid,arch_29
+World of Warships,W517,덩케르크 1940,2025-05-22,2025-06-19,28,NonSeasonal,36,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+World of Warships,W518,"Warhammer 40,000",2025-05-22,2025-06-05,14,NonSeasonal,36,Active,Free,Collab,Mission,Skin,Mid,arch_37
+World of Warships,W519,"Warhammer 40,000 패키지",2025-05-22,2025-06-05,14,NonSeasonal,36,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W520,덩케르크 1940 패키지,2025-05-22,2025-06-19,28,NonSeasonal,36,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W521,난투 2,2025-05-26,2025-06-02,7,NonSeasonal,33,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W522,용선 축제,2025-05-28,2025-06-04,7,NonSeasonal,33,Active,Free,Existing,Mission,Skin,Mid,arch_11
+World of Warships,W523,용선 보물,2025-05-29,2025-06-05,7,NonSeasonal,34,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W524,난투 3,2025-06-02,2025-06-09,7,NonSeasonal,34,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W525,붉은 선창으로부터,2025-06-05,2025-06-19,14,NonSeasonal,32,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W526,붉은 선창으로부터: Provorny 패키지,2025-06-05,2025-06-19,14,NonSeasonal,32,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W527,현충일 보너스 코드 배포,2025-06-06,2025-06-12,6,NonSeasonal,30,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W528,14.4 discord 선물,2025-06-07,2025-06-17,10,NonSeasonal,31,Active,Free,Promo,OutGame,Currency,Mid,arch_24
+World of Warships,W529,워쉽 프리미엄 계정 1일 선물,2025-06-09,2025-07-07,28,NonSeasonal,32,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W530,UPDATE 14.5,2025-06-12,2025-07-10,28,NonSeasonal,39,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W531,여름 축제 이벤트 패스,2025-06-12,2025-07-10,28,NonSeasonal,39,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W532,비대칭 전투,2025-06-12,2025-07-10,28,NonSeasonal,39,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W533,불멸의 전선 : 신규 전투 유형,2025-06-12,2025-08-07,56,NonSeasonal,39,Active,Free,NewContent,Login,None,Low,arch_other
+World of Warships,W534,실험 군함: 두번째 그룹,2025-06-12,2025-08-07,56,NonSeasonal,39,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W535,순위표,2025-06-12,2025-06-19,7,NonSeasonal,39,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W536,twitch 보상,2025-06-12,2025-06-19,7,NonSeasonal,39,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W537,twitch 도전 임무,2025-06-12,2025-07-18,36,NonSeasonal,39,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W538,임무 일지 일일 임무,2025-06-12,2025-08-07,56,NonSeasonal,39,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W539,여름 축제 개시: 축제 패키지 및 보너스 도착!,2025-06-12,2025-07-10,28,NonSeasonal,39,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W540,여름 축제 개시: 축제 패키지 및 보너스 도착!,2025-06-12,2025-07-10,28,NonSeasonal,39,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+World of Warships,W541,해군의 유산 이벤트,2025-06-13,2025-07-10,27,NonSeasonal,33,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W542,steam 신호기: 일석이조 추첨 이벤트,2025-06-13,2025-06-30,17,NonSeasonal,33,Active,Free,Existing,Mission,Lottery,Low,arch_other
+World of Warships,W543,클랜 전투 시즌 30,2025-06-16,2025-08-04,49,NonSeasonal,35,Active,Free,Social,Mission,Currency,Mid,arch_23
+World of Warships,W544,난투 1,2025-06-16,2025-06-23,7,NonSeasonal,35,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W545,돌아온 스타트렉 콜라보레이션 이벤트,2025-06-19,2025-07-10,21,NonSeasonal,38,Active,Paid,Collab,Purchase,Skin,Low,arch_15
+World of Warships,W546,무기고 신규 연속 패키지,2025-06-19,2025-07-03,14,NonSeasonal,38,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W547,돌아온 스타트렉 콜라보레이션 이벤트,2025-06-19,2025-07-10,21,NonSeasonal,38,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W548,돌아온 스타트렉 콜라보레이션 이벤트,2025-06-19,2025-07-10,21,NonSeasonal,38,Active,Paid,Collab,Purchase,Gacha,Low,arch_19
+World of Warships,W549,난투 2,2025-06-23,2025-06-30,7,NonSeasonal,31,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W550,세계 해양의 날,2025-06-26,2025-06-27,1,NonSeasonal,34,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W551,세계 해양의 날,2025-06-26,2025-06-27,1,NonSeasonal,34,Active,Free,Existing,Mission,Goods,High,arch_other
+World of Warships,W552,무기고 대규모 입고: 프리미엄 군함,2025-06-26,2025-07-10,14,NonSeasonal,34,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W553,여름 축제: 추가 상품,2025-06-26,2025-07-10,14,NonSeasonal,34,Active,Paid,CashShop,Purchase,Skin,Low,arch_03
+World of Warships,W554,난투 3,2025-06-30,2025-07-07,7,NonSeasonal,33,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W555,14.5 discord 선물,2025-07-03,2025-07-17,14,Seasonal,32,Active,Free,Promo,OutGame,Currency,Mid,arch_24
+World of Warships,W556,미국 독립기념일,2025-07-04,2025-07-18,14,Seasonal,29,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W557,미국 독립기념일,2025-07-04,2025-07-18,14,Seasonal,29,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W558,워쉽 프리미엄 계정 1일 선물,2025-07-07,2025-08-04,28,Seasonal,30,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W559,워쉽 프리미엄 계정 1일 선물,2025-07-08,2025-08-07,30,Seasonal,29,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W560,UPDATE 14.6,2025-07-10,2025-08-07,28,Seasonal,38,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W561,미국 구축함 이벤트 패스,2025-07-10,2025-08-07,28,Seasonal,38,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W562,실험 군함 순위표 이벤트,2025-07-10,2025-07-17,7,Seasonal,38,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W563,랭크 전투 24번째 시즌,2025-07-10,2025-09-04,56,Seasonal,38,Active,Free,Season,Mission,Currency,Mid,arch_27
+World of Warships,W564,twitch 보상,2025-07-10,2025-07-17,7,Seasonal,38,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W565,twitch 도전 임무,2025-07-10,2025-08-15,36,Seasonal,38,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W566,무기고 내 신규 아이템,2025-07-10,2025-07-24,14,Seasonal,38,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W567,블루 아카이브: 소원의 부두,2025-07-10,2025-08-07,28,Seasonal,38,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W568,제독 패키지1,2025-07-10,2025-07-17,7,Seasonal,38,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W569,난투1,2025-07-14,2025-07-21,7,Seasonal,27,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W570,블루 아카이브 보너스 코드,2025-07-14,2025-08-03,20,Seasonal,27,Active,Free,Collab,OutGame,Currency,Mid,arch_other
+World of Warships,W571,블루 아카이브 보너스 코드,2025-07-14,2025-08-03,20,Seasonal,27,Active,Free,Collab,OutGame,Lottery,Mid,arch_other
+World of Warships,W572,블루 아카이브 추첨,2025-07-15,2025-08-05,21,Seasonal,28,Active,Paid,Collab,OutGame,Lottery,Low,arch_other
+World of Warships,W573,미국 구축함 사전 운용 이벤트,2025-07-17,2025-09-04,49,Seasonal,30,Active,Paid,CashShop,Mission,Currency,Mid,arch_other
+World of Warships,W574,제독 패키지2,2025-07-17,2025-07-24,7,Seasonal,30,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W575,14.6 discord 선물,2025-07-18,2025-07-25,7,Seasonal,27,Active,Free,Promo,OutGame,Gacha,Mid,arch_other
+World of Warships,W576,난투2,2025-07-21,2025-07-28,7,Seasonal,25,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W577,제독 패키지3,2025-07-24,2025-07-31,7,Seasonal,25,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W578,난투3,2025-07-28,2025-08-04,7,Seasonal,23,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W579,기함 포함 작전 순위표 이벤트,2025-07-31,2025-08-07,7,Seasonal,24,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W580,제독 패키지4,2025-07-31,2025-08-07,7,Seasonal,24,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W581,서유기 보급 화물: 다시 시작된 서사,2025-08-01,2025-08-14,13,Seasonal,25,Active,Paid,Collab,Purchase,Currency,Low,arch_14
+World of Warships,W582,서유기 보급 화물: 다시 시작된 서사,2025-08-01,2025-08-14,13,Seasonal,25,Active,Paid,Collab,Purchase,Gacha,Low,arch_19
+World of Warships,W583,워쉽 프리미엄 계정 1일 선물,2025-08-04,2025-09-01,28,Seasonal,24,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W584,UPDATE 14.7,2025-08-07,2025-09-04,28,Seasonal,29,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W585,UPDATE 14.7 밸런스 패치,2025-08-07,2026-01-01,0,Seasonal,0,Login,Free,Balance,Login,None,Mid,arch_04
+World of Warships,W586,종전 80주년 이벤트 패스,2025-08-07,2025-09-04,28,Seasonal,29,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W587,개인 선창: Laffey,2025-08-07,2025-09-30,54,Seasonal,29,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W588,10주년 이벤트,2025-08-07,2025-12-31,146,Seasonal,29,Active,Free,Anniversary,Mission,Currency,Mid,arch_36
+World of Warships,W589,내일을 위하여: 북극 호송대,2025-08-07,2025-08-14,7,Seasonal,29,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+World of Warships,W590,내일을 위하여 이벤트 상품,2025-08-07,2025-10-02,56,Seasonal,29,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W591,내일을 위하여 이벤트 상품,2025-08-07,2025-10-02,56,Seasonal,29,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W592,twitch 보상,2025-08-07,2025-08-14,7,Seasonal,29,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W593,twitch 도전 임무,2025-08-07,2025-09-12,36,Seasonal,29,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W594,난투1,2025-08-11,2025-08-18,7,Seasonal,20,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W595,광복절 보너스 코드,2025-08-12,2025-08-20,8,Seasonal,21,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W596,내일을 위하여: 도쿄 익스프레스 작전,2025-08-14,2025-08-21,7,Seasonal,23,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+World of Warships,W597,Chikuma와 황혼의 공물,2025-08-14,2025-08-28,14,Seasonal,23,Active,Paid,CashShop,Mission,Currency,Mid,arch_other
+World of Warships,W598,난투2,2025-08-18,2025-08-25,7,Seasonal,19,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W599,내일을 위하여: 대평양 공세,2025-08-21,2025-08-28,7,Seasonal,19,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+World of Warships,W600,자원 모으기 운동: La Pampa,2025-08-21,2025-09-04,14,Seasonal,19,Active,Free,Existing,Login,Currency,Low,arch_other
+World of Warships,W601,난투3,2025-08-25,2025-09-01,7,Seasonal,19,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W602,내일을 위하여: 무작위 작전,2025-08-28,2025-09-18,21,Seasonal,20,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+World of Warships,W603,discord 선물,2025-08-28,2025-09-04,7,Seasonal,20,Active,Free,Promo,OutGame,Gacha,Mid,arch_other
+World of Warships,W604,워쉽 프리미엄 계정 1일 선물,2025-09-01,2025-09-29,28,NonSeasonal,20,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W605,워쉽 프리미엄 계정 1일 선물,2025-09-01,2025-10-27,56,NonSeasonal,20,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W606,모집의 파도: 원정 토큰 수집,2025-09-04,2025-10-02,28,NonSeasonal,30,Active,Free,Anniversary,Mission,Currency,Mid,arch_36
+World of Warships,W607,UPDATE 14.8,2025-09-04,2025-10-02,28,NonSeasonal,30,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W608,일일 접속 보상 달력,2025-09-04,2025-10-02,28,NonSeasonal,30,Login,Free,Anniversary,Login,Currency,Low,arch_25
+World of Warships,W609,10주년 이벤트 패스,2025-09-04,2025-10-02,28,NonSeasonal,30,Active,Paid,Anniversary,Purchase,Pass,Low,arch_other
+World of Warships,W610,과거의 격전 (전투 유형),2025-09-04,2025-10-27,53,NonSeasonal,30,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W611,랭크 전투 시즌 25,2025-09-04,2025-10-30,56,NonSeasonal,30,Active,Free,Season,Mission,Currency,Mid,arch_27
+World of Warships,W612,twitch 보상,2025-09-04,2025-09-11,7,NonSeasonal,30,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W613,twitch 도전 임무,2025-09-04,2025-10-09,35,NonSeasonal,30,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W614,10년에 걸친 항해,2025-09-04,2025-10-02,28,NonSeasonal,30,Login,Free,Anniversary,Login,Currency,Low,arch_25
+World of Warships,W615,전투 성과 보너스,2025-09-04,2025-10-02,28,NonSeasonal,30,Active,Free,Anniversary,Mission,Currency,Mid,arch_36
+World of Warships,W616,명예로운 복무,2025-09-04,2025-10-02,28,NonSeasonal,30,Login,Free,Anniversary,Login,Currency,Low,arch_25
+World of Warships,W617,10주년 기념 소원의 부두,2025-09-04,2025-10-27,53,NonSeasonal,30,Active,Paid,Anniversary,Purchase,Currency,Low,arch_other
+World of Warships,W618,난투 1,2025-09-08,2025-09-15,7,NonSeasonal,24,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W619,클랜 전투 시즌 31,2025-09-10,2025-10-27,47,NonSeasonal,25,Active,Free,Social,Mission,Currency,Mid,arch_23
+World of Warships,W620,신규 독일 순양함: 사전 운용 이벤트,2025-09-11,2025-10-30,49,NonSeasonal,28,Active,Paid,CurrencyEvent,Purchase,Pass,Low,arch_other
+World of Warships,W621,신규 독일 순양함: 사전 운용 이벤트,2025-09-11,2025-10-30,49,NonSeasonal,28,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W622,독일 순양함 전투 임무,2025-09-11,2025-10-02,21,NonSeasonal,28,Active,Paid,NewContent,Mission,Currency,Mid,arch_other
+World of Warships,W623,기념일 할인 혜택,2025-09-12,2025-09-19,7,NonSeasonal,28,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W624,난투 2,2025-09-15,2025-09-22,7,NonSeasonal,28,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W625,discord 선물,2025-09-17,2025-10-01,14,NonSeasonal,29,Active,Free,Promo,OutGame,Gacha,Mid,arch_other
+World of Warships,W626,생일 보너스 코드,2025-09-17,2025-09-30,13,NonSeasonal,29,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W627,과거의 격전 2020 순위표 이벤트,2025-09-18,2025-09-25,7,NonSeasonal,33,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W628,10주년 기념 특별 방송,2025-09-18,2025-09-18,0,NonSeasonal,33,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W629,Vrijheid 및 신규 연속 패키지,2025-09-18,2025-09-25,7,NonSeasonal,33,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W630,Vrijheid 및 신규 연속 패키지,2025-09-18,2025-10-02,14,NonSeasonal,33,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W631,비대칭 전투,2025-09-19,2026-01-01,0,NonSeasonal,32,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W632,선물이 포함된 10시간 추억 마라톤,2025-09-20,2025-09-21,1,NonSeasonal,32,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W633,난투 3,2025-09-22,2025-09-29,7,NonSeasonal,32,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W634,과거의 격전 2022 순위표 이벤트,2025-09-25,2025-10-02,7,NonSeasonal,32,Active,Free,Existing,Mission,Currency,High,arch_13
+World of Warships,W635,UPDATE 14.9,2025-10-02,2025-10-30,28,NonSeasonal,31,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W636,개인 선창: Lushun B,2025-10-02,2025-11-25,54,NonSeasonal,31,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W637,"단결, 정의, 자유 이벤트 패스",2025-10-02,2025-10-30,28,NonSeasonal,31,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W638,twitch 보상,2025-10-02,2025-10-09,7,NonSeasonal,31,Active,Free,Promo,Stream,Gacha,Low,arch_18
+World of Warships,W639,twitch 도전 임무,2025-10-02,2025-11-06,35,NonSeasonal,31,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W640,독일 재통일 기념,2025-10-02,2025-10-23,21,NonSeasonal,31,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W641,기나긴 휴일: 행복한 추석 보너스 코드,2025-10-03,2025-10-13,10,NonSeasonal,20,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W642,Bald and Bankrupt 함장 보너스 코드,2025-10-04,2025-10-30,26,NonSeasonal,21,Active,Free,Existing,OutGame,Skin,Low,arch_other
+World of Warships,W643,난투 1,2025-10-06,2025-10-13,7,NonSeasonal,23,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W644,한글날 보너스 코드 배포,2025-10-06,2025-10-13,7,NonSeasonal,23,Active,Free,Existing,OutGame,Currency,Mid,arch_29
+World of Warships,W645,SNS도전,2025-10-08,2025-10-13,5,NonSeasonal,24,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W646,자유의 항만,2025-10-09,2025-12-04,56,NonSeasonal,27,Active,Free,NewContent,Mission,Currency,Mid,arch_09
+World of Warships,W647,Indiana와 미 해군 250주년 프리미엄 보급 화물,2025-10-09,2025-10-30,21,NonSeasonal,27,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W648,Heroes of Might and Magic III 함장,2025-10-09,2025-10-16,7,NonSeasonal,27,Active,Paid,Collab,Purchase,Gacha,Low,arch_19
+World of Warships,W649,최고의 전투: steam 에디션,2025-10-10,2025-10-29,19,NonSeasonal,26,Active,Free,Existing,OutGame,Lottery,Mid,arch_other
+World of Warships,W650,난투 2,2025-10-13,2025-10-20,7,NonSeasonal,27,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W651,독일 재통일의 날 기념 경매: Hildebrand,2025-10-15,2025-10-20,5,NonSeasonal,24,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W652,트라팔가르 해전 보상,2025-10-16,2025-11-13,28,NonSeasonal,26,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W653,트라팔가르 해전 1주차,2025-10-16,2025-10-30,14,NonSeasonal,26,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W654,난투 3,2025-10-20,2025-10-27,7,NonSeasonal,26,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W655,트라팔가르 해전 2주차,2025-10-23,2025-11-06,14,NonSeasonal,26,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W656,으스스한 보급 화물 출현!,2025-10-23,2025-11-06,14,NonSeasonal,26,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W657,discord 선물,2025-10-24,2025-11-07,14,NonSeasonal,28,Active,Free,Promo,OutGame,Gacha,Low,arch_other
+World of Warships,W658,핼러윈 파티 보너스 코드,2025-10-24,2025-11-02,9,NonSeasonal,28,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W659,오싹한 퍼즐 사냥,2025-10-24,2025-11-02,9,NonSeasonal,28,Active,Free,Existing,OutGame,Lottery,Low,arch_33
+World of Warships,W660,더 많은 10주년 컬렉션 아이템,2025-10-25,2025-11-22,28,NonSeasonal,29,Active,Paid,Collab,Purchase,Goods,Low,arch_other
+World of Warships,W661,오싹한 퍼즐 사냥,2025-10-27,2025-11-02,6,NonSeasonal,31,Active,Free,Existing,OutGame,Lottery,Low,arch_33
+World of Warships,W662,워쉽 프리미엄 계정 1일 선물,2025-10-27,2025-11-24,28,NonSeasonal,31,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W663,트라팔가르 해전 3주차,2025-10-30,2025-11-13,14,NonSeasonal,34,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W664,UPDATE 14.10,2025-10-30,2025-11-27,28,NonSeasonal,34,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W665,시간 균열 (임시 전투 유형),2025-10-30,2025-12-11,42,NonSeasonal,34,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W666,2025 블랙 프라이데이,2025-10-30,2025-12-01,32,NonSeasonal,34,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W667,이벤트 패스,2025-10-30,2025-11-27,28,NonSeasonal,34,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W668,자원 모으기 운동: Blyskawica 52,2025-10-30,2025-12-01,32,NonSeasonal,34,Active,Free,Existing,Login,Skin,Low,arch_other
+World of Warships,W669,랭크 전투 시즌 26,2025-10-30,2026-01-01,0,NonSeasonal,34,Active,Free,Season,Mission,Currency,Mid,arch_27
+World of Warships,W670,이벤트 패스 점수 선물,2025-10-30,2025-10-30,0,NonSeasonal,34,Active,Paid,Promo,Stream,Currency,Low,arch_other
+World of Warships,W671,"세 개의 국가, 세 명의 함장",2025-10-30,2025-11-13,14,NonSeasonal,34,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W672,난투1,2025-11-03,2025-11-10,7,NonSeasonal,23,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W673,함장 클럽: 놓칠 수 없는 두 번의 기회!,2025-11-04,2025-11-11,7,NonSeasonal,24,Active,Free,Existing,Mission,Goods,High,arch_other
+World of Warships,W674,Brandon Herrera 함장,2025-11-07,2025-11-30,23,NonSeasonal,23,Active,Free,Existing,Mission,Currency,Low,arch_21
+World of Warships,W675,Brandon Herrera 함장,2025-11-07,2025-11-30,23,NonSeasonal,23,Active,Free,Existing,OutGame,Gacha,Low,arch_other
+World of Warships,W676,king of the sea XVIII 최종 결승전 스트리밍 이벤트,2025-11-08,2025-11-08,0,NonSeasonal,23,Active,Free,Esports,OutGame,Currency,Low,arch_35
+World of Warships,W677,king of the sea XVIII 최종 결승전 스트리밍 이벤트,2025-11-09,2025-11-09,0,NonSeasonal,23,Active,Free,Esports,OutGame,Currency,Low,arch_35
+World of Warships,W678,난투2,2025-11-10,2025-11-17,7,NonSeasonal,23,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W679,빼빼로데이 보너스 코드,2025-11-11,2025-11-17,6,NonSeasonal,23,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W680,블랙프라이데이 보물 보너스 코드,2025-11-13,2025-11-30,17,NonSeasonal,24,Active,Free,Existing,OutGame,Gacha,Low,arch_other
+World of Warships,W681,신규 순양함 Comandante Aguirre,2025-11-13,2025-11-27,14,NonSeasonal,24,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W682,steam에서 맞이하는 8주년!,2025-11-14,2025-11-27,13,NonSeasonal,22,Active,Free,Existing,OutGame,Lottery,Low,arch_33
+World of Warships,W683,king of the sea XVIII 최종 결승전 스트리밍 이벤트,2025-11-15,2025-11-15,0,NonSeasonal,23,Active,Free,Esports,OutGame,Currency,Low,arch_35
+World of Warships,W684,king of the sea XVIII 최종 결승전 스트리밍 이벤트,2025-11-16,2025-11-16,0,NonSeasonal,23,Active,Free,Esports,OutGame,Currency,Low,arch_35
+World of Warships,W685,난투3,2025-11-17,2025-11-24,7,NonSeasonal,23,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W686,king of the sea XVIII 최종 결승전 스트리밍 이벤트,2025-11-22,2025-11-22,0,NonSeasonal,22,Active,Free,Esports,OutGame,Currency,Low,arch_35
+World of Warships,W687,king of the sea XVIII 최종 결승전 스트리밍 이벤트,2025-11-23,2025-11-23,0,NonSeasonal,21,Active,Free,Esports,OutGame,Currency,Low,arch_35
+World of Warships,W688,워쉽 프리미엄 계정 1일 선물,2025-11-24,2026-01-01,0,NonSeasonal,21,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W689,twitch 도전 임무,2025-11-27,2025-12-04,7,NonSeasonal,27,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W690,twitch 도전 임무,2025-11-27,2025-12-04,7,NonSeasonal,27,Active,Free,Promo,Stream,Currency,Low,arch_16
+World of Warships,W691,축제 전투 임무 선물,2025-11-27,2026-01-01,0,NonSeasonal,27,Active,Free,Promo,Stream,Currency,Mid,arch_other
+World of Warships,W692,겨울맞이 모집,2025-11-27,2026-01-01,0,NonSeasonal,27,Active,Free,Social,Mission,Gacha,Mid,arch_other
+World of Warships,W693,UPDATE 14.11,2025-11-27,2026-01-01,0,NonSeasonal,27,Login,Free,NewContent,Login,None,Low,arch_05
+World of Warships,W694,축제 이벤트 패스1,2025-11-27,2025-12-22,25,NonSeasonal,27,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W695,Roussillon 개인 선창,2025-11-27,2026-01-01,0,NonSeasonal,27,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W696,강철 함대 이벤트,2025-11-27,2026-01-01,0,NonSeasonal,27,Active,Paid,CashShop,Purchase,Currency,Low,arch_06
+World of Warships,W697,강철 함대 이벤트,2025-11-27,2026-01-01,0,NonSeasonal,27,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W698,선물 수령!,2025-11-29,2026-01-01,0,NonSeasonal,25,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W699,무료 Yubari 패키지,2025-11-29,2025-12-06,7,NonSeasonal,25,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W700,연말연시 시즌,2025-12-01,2026-01-01,0,NonSeasonal,28,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W701,연말연시 달력,2025-12-01,2026-01-01,0,NonSeasonal,28,Login,Free,Existing,Login,Currency,Low,arch_02
+World of Warships,W702,축제 보상,2025-12-01,2026-01-01,0,NonSeasonal,28,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W703,10주년: 위대한 여정 이벤트,2025-12-01,2026-01-01,0,NonSeasonal,28,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W704,난투 1,2025-12-01,2025-12-08,7,NonSeasonal,28,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W705,산타클로스 선물 도착,2025-12-01,2026-01-01,0,NonSeasonal,28,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W706,클랜 전투 시즌 32,2025-12-03,2026-01-01,0,NonSeasonal,27,Active,Free,Social,Mission,Currency,Mid,arch_23
+World of Warships,W707,비밀 산타 커뮤니티 이벤트,2025-12-05,2026-01-01,0,NonSeasonal,25,Active,Free,Promo,OutGame,Lottery,Low,arch_other
+World of Warships,W708,난투 2,2025-12-08,2025-12-15,7,NonSeasonal,25,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W709,인기 보급 화물 묶음 패키지,2025-12-11,2025-12-18,7,NonSeasonal,25,Active,Paid,CashShop,Purchase,Gacha,Low,arch_07
+World of Warships,W710,난투 3,2025-12-15,2025-12-22,7,NonSeasonal,25,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W711,축제 이벤트 패스2,2025-12-22,2026-01-01,0,NonSeasonal,24,Active,Paid,CashShop,Purchase,Pass,Low,arch_08
+World of Warships,W712,산타의 연말축제 보너스코드,2025-12-23,2026-01-01,0,NonSeasonal,24,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W713,steam 연말 파티,2025-12-23,2026-01-01,0,NonSeasonal,24,Active,Free,Existing,OutGame,Currency,Mid,arch_29
+World of Warships,W714,연말연쉽 혜택,2025-12-24,2025-12-29,5,NonSeasonal,25,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W715,난투 4,2025-12-29,2026-01-01,0,NonSeasonal,28,Active,Free,Existing,Mission,Currency,Mid,arch_01
+World of Warships,W716,빛나는새해를시작하십시오 보너스코드,2025-12-29,2026-01-01,0,NonSeasonal,28,Active,Free,Existing,OutGame,Currency,Low,arch_12
+World of Warships,W717,신년 임무,2025-12-29,2026-01-01,0,NonSeasonal,28,Active,Free,Existing,OutGame,Currency,Low,arch_12
