@@ -2,8 +2,6 @@
 
 This dataset is a catalog of the live-service events that *Destiny 2*, *Dota 2*, *PUBG*, and *World of Warships* announced between January 1, 2024 and December 31, 2025. Each event is coded on six design attributes under one written coding scheme, so events with different names in different games can be compared by their design. The joint combination of the six attributes is the event's *archetype*. Two independent coders coded every record.
 
-The dataset was built for the manuscript "Event Archetypes Across Four Live-Service Games: Activity Trajectories and Player-Level Churn" (under review at IEEE Transactions on Games; authors anonymized for review).
-
 | Game | Records |
 |---|---|
 | Destiny 2 | 287 |
